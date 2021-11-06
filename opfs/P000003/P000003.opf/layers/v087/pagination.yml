@@ -1,0 +1,6060 @@
+id: f58571cb3ef348b7ab177c77d407d26a
+annotation_type: pagination
+rev: '00001'
+content:
+- id: 531c424eeb6c400f8799c635e6a8ddbf
+  type: page
+  span:
+    start_char: 0
+    end_char: 578
+  part_of: bases/v0074
+  part_index: 1
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810001.tif/full/max/0/default.png
+- id: 7bdf36f21c194fd891fa048d1ae92bc2
+  type: page
+  span:
+    start_char: 583
+    end_char: 2048
+  part_of: bases/v0074
+  part_index: 2
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810002.tif/full/max/0/default.png
+- id: 8fa83f3b57684f7b94e2da199a152cae
+  type: page
+  span:
+    start_char: 2053
+    end_char: 2118
+  part_of: bases/v0074
+  part_index: 3
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810003.tif/full/max/0/default.png
+- id: d533792b4ceb45888617bf88b4f780a0
+  type: page
+  span:
+    start_char: 2123
+    end_char: 2304
+  part_of: bases/v0074
+  part_index: 4
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810005.tif/full/max/0/default.png
+- id: 26cccc18d35b4643929a4c1acea1c006
+  type: page
+  span:
+    start_char: 2309
+    end_char: 2687
+  part_of: bases/v0074
+  part_index: 5
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810007.tif/full/max/0/default.png
+- id: 6546a88136f54e969de13936067d4fa7
+  type: page
+  span:
+    start_char: 2692
+    end_char: 3021
+  part_of: bases/v0074
+  part_index: 6
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810008.tif/full/max/0/default.png
+- id: dff7ded574de4d55944945f073194667
+  type: page
+  span:
+    start_char: 3026
+    end_char: 3492
+  part_of: bases/v0074
+  part_index: 7
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810009.tif/full/max/0/default.png
+- id: d3d05db04b6341a1b04427e25389dfcd
+  type: page
+  span:
+    start_char: 3497
+    end_char: 3848
+  part_of: bases/v0074
+  part_index: 8
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810010.tif/full/max/0/default.png
+- id: 5007f92687574a31943dfa4969d1a159
+  type: page
+  span:
+    start_char: 3853
+    end_char: 4162
+  part_of: bases/v0074
+  part_index: 9
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810011.tif/full/max/0/default.png
+- id: 163942467c3447449f3d80f0c7bb7daf
+  type: page
+  span:
+    start_char: 4167
+    end_char: 4573
+  part_of: bases/v0074
+  part_index: 10
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810012.tif/full/max/0/default.png
+- id: a030d06494f743608fe4123eb4d930ed
+  type: page
+  span:
+    start_char: 4578
+    end_char: 4810
+  part_of: bases/v0074
+  part_index: 11
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810013.tif/full/max/0/default.png
+- id: 258c0addf6d7447f80c29fd93dab0579
+  type: page
+  span:
+    start_char: 4815
+    end_char: 5211
+  part_of: bases/v0074
+  part_index: 12
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810014.tif/full/max/0/default.png
+- id: 732a18e6ef824d6ea4e69bd96c82c301
+  type: page
+  span:
+    start_char: 5216
+    end_char: 5496
+  part_of: bases/v0074
+  part_index: 13
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810015.tif/full/max/0/default.png
+- id: fc1f8607686543e7a8962e9658eddf46
+  type: page
+  span:
+    start_char: 5501
+    end_char: 5816
+  part_of: bases/v0074
+  part_index: 14
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810016.tif/full/max/0/default.png
+- id: 0d718d1a6f104caf9597917e3ba7f500
+  type: page
+  span:
+    start_char: 5821
+    end_char: 6194
+  part_of: bases/v0074
+  part_index: 15
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810017.tif/full/max/0/default.png
+- id: c07dad0605fa4ba2843163375c62bb81
+  type: page
+  span:
+    start_char: 6199
+    end_char: 6510
+  part_of: bases/v0074
+  part_index: 16
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810018.tif/full/max/0/default.png
+- id: 7934889bb8ff46188abd752ff592bce4
+  type: page
+  span:
+    start_char: 6515
+    end_char: 6920
+  part_of: bases/v0074
+  part_index: 17
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810019.tif/full/max/0/default.png
+- id: 36aaed4a63454eb5a353f12039ba6455
+  type: page
+  span:
+    start_char: 6925
+    end_char: 7299
+  part_of: bases/v0074
+  part_index: 18
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810020.tif/full/max/0/default.png
+- id: a07c0b42c1b04a2a845a0863333a2459
+  type: page
+  span:
+    start_char: 7304
+    end_char: 7484
+  part_of: bases/v0074
+  part_index: 19
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810021.tif/full/max/0/default.png
+- id: f9d5da0d29394289aa20cfbcd88aa35e
+  type: page
+  span:
+    start_char: 7489
+    end_char: 7552
+  part_of: bases/v0074
+  part_index: 20
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810023.tif/full/max/0/default.png
+- id: 6c665e3137a74883a2f448b9d765b8a0
+  type: page
+  span:
+    start_char: 7557
+    end_char: 7717
+  part_of: bases/v0074
+  part_index: 21
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810024.tif/full/max/0/default.png
+- id: 64845abc93fc477495c03dbac88c816c
+  type: page
+  span:
+    start_char: 7722
+    end_char: 8063
+  part_of: bases/v0074
+  part_index: 22
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810025.tif/full/max/0/default.png
+- id: 7ff3957279c64ee1b1e90aec6cad196a
+  type: page
+  span:
+    start_char: 8068
+    end_char: 8602
+  part_of: bases/v0074
+  part_index: 23
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810026.tif/full/max/0/default.png
+- id: 53491e8945974ca9a763a14bc5389c7b
+  type: page
+  span:
+    start_char: 8607
+    end_char: 9468
+  part_of: bases/v0074
+  part_index: 24
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810027.tif/full/max/0/default.png
+- id: e61a4d61c6a04357aa07e9da7a1aaa14
+  type: page
+  span:
+    start_char: 9473
+    end_char: 10541
+  part_of: bases/v0074
+  part_index: 25
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810028.tif/full/max/0/default.png
+- id: 41a7c2dd7d434f5d831d237e0b304132
+  type: page
+  span:
+    start_char: 10546
+    end_char: 11650
+  part_of: bases/v0074
+  part_index: 26
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810029.tif/full/max/0/default.png
+- id: 9a0e1b1fde0f492296dc0ff1a8dbceec
+  type: page
+  span:
+    start_char: 11655
+    end_char: 12719
+  part_of: bases/v0074
+  part_index: 27
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810030.tif/full/max/0/default.png
+- id: 522917e4a2dc477583e824a781be6cc7
+  type: page
+  span:
+    start_char: 12724
+    end_char: 13833
+  part_of: bases/v0074
+  part_index: 28
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810031.tif/full/max/0/default.png
+- id: 4082ef8505284f24aa3cbcf27872a47d
+  type: page
+  span:
+    start_char: 13838
+    end_char: 14870
+  part_of: bases/v0074
+  part_index: 29
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810032.tif/full/max/0/default.png
+- id: 1b724e990cb44f71bca46acdae52d5a3
+  type: page
+  span:
+    start_char: 14875
+    end_char: 15949
+  part_of: bases/v0074
+  part_index: 30
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810033.tif/full/max/0/default.png
+- id: 3c690ddd74cb4b32bec5ee93f17c8465
+  type: page
+  span:
+    start_char: 15954
+    end_char: 16927
+  part_of: bases/v0074
+  part_index: 31
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810034.tif/full/max/0/default.png
+- id: cd07b7c2b9c445d5a9c0b59d3631d7e6
+  type: page
+  span:
+    start_char: 16932
+    end_char: 18028
+  part_of: bases/v0074
+  part_index: 32
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810035.tif/full/max/0/default.png
+- id: b646eb5a88e44ceb8420b7ea592e0061
+  type: page
+  span:
+    start_char: 18033
+    end_char: 19130
+  part_of: bases/v0074
+  part_index: 33
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810036.tif/full/max/0/default.png
+- id: 481b2021bcca4097a37110b2b5586d13
+  type: page
+  span:
+    start_char: 19135
+    end_char: 20185
+  part_of: bases/v0074
+  part_index: 34
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810037.tif/full/max/0/default.png
+- id: 370c415f85ff44ce8c86187f6720a364
+  type: page
+  span:
+    start_char: 20190
+    end_char: 21231
+  part_of: bases/v0074
+  part_index: 35
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810038.tif/full/max/0/default.png
+- id: 553be37d0d5a4bd291161cb93fa61bb8
+  type: page
+  span:
+    start_char: 21236
+    end_char: 22301
+  part_of: bases/v0074
+  part_index: 36
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810039.tif/full/max/0/default.png
+- id: 282fb3d2b6674dd68eaa99e40e600371
+  type: page
+  span:
+    start_char: 22306
+    end_char: 23371
+  part_of: bases/v0074
+  part_index: 37
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810040.tif/full/max/0/default.png
+- id: 1fac70f82b65472285713b3347066b1c
+  type: page
+  span:
+    start_char: 23376
+    end_char: 24523
+  part_of: bases/v0074
+  part_index: 38
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810041.tif/full/max/0/default.png
+- id: bc606dc45b334636a7580a1a4691cffa
+  type: page
+  span:
+    start_char: 24528
+    end_char: 25591
+  part_of: bases/v0074
+  part_index: 39
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810042.tif/full/max/0/default.png
+- id: 13a876ddb83742d89848c18a5a3def87
+  type: page
+  span:
+    start_char: 25596
+    end_char: 26585
+  part_of: bases/v0074
+  part_index: 40
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810043.tif/full/max/0/default.png
+- id: 7b6695dc0ed74024b1a85db29b9001e2
+  type: page
+  span:
+    start_char: 26590
+    end_char: 27761
+  part_of: bases/v0074
+  part_index: 41
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810044.tif/full/max/0/default.png
+- id: cc4079fc29254c44a3bd8f12d9ba1b5d
+  type: page
+  span:
+    start_char: 27766
+    end_char: 28950
+  part_of: bases/v0074
+  part_index: 42
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810045.tif/full/max/0/default.png
+- id: c35871a62bd04a84b787874bef665fc7
+  type: page
+  span:
+    start_char: 28955
+    end_char: 30172
+  part_of: bases/v0074
+  part_index: 43
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810046.tif/full/max/0/default.png
+- id: 1d46f21d40a94f6ca66f6408837087ee
+  type: page
+  span:
+    start_char: 30177
+    end_char: 31289
+  part_of: bases/v0074
+  part_index: 44
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810047.tif/full/max/0/default.png
+- id: a59ce606f81a49ddbdce350e20a95e2b
+  type: page
+  span:
+    start_char: 31294
+    end_char: 32418
+  part_of: bases/v0074
+  part_index: 45
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810048.tif/full/max/0/default.png
+- id: d7fc7f44d1c0435ea2fb4eb7311d5d3f
+  type: page
+  span:
+    start_char: 32423
+    end_char: 33641
+  part_of: bases/v0074
+  part_index: 46
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810049.tif/full/max/0/default.png
+- id: 1df05a4bcd47404da3196a158cc6e724
+  type: page
+  span:
+    start_char: 33646
+    end_char: 34751
+  part_of: bases/v0074
+  part_index: 47
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810050.tif/full/max/0/default.png
+- id: 492af9dd74514d8a9217399c245d7a40
+  type: page
+  span:
+    start_char: 34756
+    end_char: 35729
+  part_of: bases/v0074
+  part_index: 48
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810051.tif/full/max/0/default.png
+- id: fd2eac6ab2414e90b09db4c2d3e4c280
+  type: page
+  span:
+    start_char: 35734
+    end_char: 36879
+  part_of: bases/v0074
+  part_index: 49
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810052.tif/full/max/0/default.png
+- id: c30d4ce57e79431abda839924779dd02
+  type: page
+  span:
+    start_char: 36884
+    end_char: 37946
+  part_of: bases/v0074
+  part_index: 50
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810053.tif/full/max/0/default.png
+- id: 78f4ae421ef94bdea4425f8b67b5ecd2
+  type: page
+  span:
+    start_char: 37951
+    end_char: 38999
+  part_of: bases/v0074
+  part_index: 51
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810054.tif/full/max/0/default.png
+- id: 9670573697464f25851b24e35453e2b0
+  type: page
+  span:
+    start_char: 39004
+    end_char: 40104
+  part_of: bases/v0074
+  part_index: 52
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810055.tif/full/max/0/default.png
+- id: 2692bfb01fef4952b93ae5685d5b8b9a
+  type: page
+  span:
+    start_char: 40109
+    end_char: 41217
+  part_of: bases/v0074
+  part_index: 53
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810056.tif/full/max/0/default.png
+- id: 3031ecf6fef443d7af483bec00158ff0
+  type: page
+  span:
+    start_char: 41222
+    end_char: 42308
+  part_of: bases/v0074
+  part_index: 54
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810057.tif/full/max/0/default.png
+- id: a07b02d74dec495d9ab16135d31e0a33
+  type: page
+  span:
+    start_char: 42313
+    end_char: 43384
+  part_of: bases/v0074
+  part_index: 55
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810058.tif/full/max/0/default.png
+- id: 1c517a8f15fc490aa65aef3921f80fd1
+  type: page
+  span:
+    start_char: 43389
+    end_char: 44464
+  part_of: bases/v0074
+  part_index: 56
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810059.tif/full/max/0/default.png
+- id: e0f0d0c2878f45bfbffb2a38226963a2
+  type: page
+  span:
+    start_char: 44469
+    end_char: 45506
+  part_of: bases/v0074
+  part_index: 57
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810060.tif/full/max/0/default.png
+- id: 7b6f7cf4154e4b8690f3079c571c9005
+  type: page
+  span:
+    start_char: 45511
+    end_char: 46557
+  part_of: bases/v0074
+  part_index: 58
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810061.tif/full/max/0/default.png
+- id: ec58ac0cb9db4a1c8874abecdff39e02
+  type: page
+  span:
+    start_char: 46562
+    end_char: 47625
+  part_of: bases/v0074
+  part_index: 59
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810062.tif/full/max/0/default.png
+- id: 07a55a72346444b3b40e6cd88d3519ca
+  type: page
+  span:
+    start_char: 47630
+    end_char: 48719
+  part_of: bases/v0074
+  part_index: 60
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810063.tif/full/max/0/default.png
+- id: fe048fc03ba146bead1f76a5021bac0a
+  type: page
+  span:
+    start_char: 48724
+    end_char: 49803
+  part_of: bases/v0074
+  part_index: 61
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810064.tif/full/max/0/default.png
+- id: 0e60e7098a974b7080d488b6919bac16
+  type: page
+  span:
+    start_char: 49808
+    end_char: 50888
+  part_of: bases/v0074
+  part_index: 62
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810065.tif/full/max/0/default.png
+- id: e08248089d8c42b1bfd4563c20879dc1
+  type: page
+  span:
+    start_char: 50893
+    end_char: 52037
+  part_of: bases/v0074
+  part_index: 63
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810066.tif/full/max/0/default.png
+- id: 3ea48cd3aedf4dd8ae4c1e116cbbf723
+  type: page
+  span:
+    start_char: 52042
+    end_char: 53133
+  part_of: bases/v0074
+  part_index: 64
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810067.tif/full/max/0/default.png
+- id: 4c67d7c23ef549959a3253629d8ee720
+  type: page
+  span:
+    start_char: 53138
+    end_char: 54258
+  part_of: bases/v0074
+  part_index: 65
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810068.tif/full/max/0/default.png
+- id: 8413c94e386c4a9dbcf2df99c7bfb573
+  type: page
+  span:
+    start_char: 54263
+    end_char: 55380
+  part_of: bases/v0074
+  part_index: 66
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810069.tif/full/max/0/default.png
+- id: 4957845b07904cd59085cedbb6ddf566
+  type: page
+  span:
+    start_char: 55385
+    end_char: 56464
+  part_of: bases/v0074
+  part_index: 67
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810070.tif/full/max/0/default.png
+- id: 52bcf5e2862c4b5ab4bd8b17789362ab
+  type: page
+  span:
+    start_char: 56469
+    end_char: 57528
+  part_of: bases/v0074
+  part_index: 68
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810071.tif/full/max/0/default.png
+- id: 484b1087474842da9f734fb1a2f76c41
+  type: page
+  span:
+    start_char: 57533
+    end_char: 58579
+  part_of: bases/v0074
+  part_index: 69
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810072.tif/full/max/0/default.png
+- id: 829b83efcb674294b32972b13a6de86f
+  type: page
+  span:
+    start_char: 58584
+    end_char: 59735
+  part_of: bases/v0074
+  part_index: 70
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810073.tif/full/max/0/default.png
+- id: 848301fd81424b4c99712f5cb023d626
+  type: page
+  span:
+    start_char: 59740
+    end_char: 60793
+  part_of: bases/v0074
+  part_index: 71
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810074.tif/full/max/0/default.png
+- id: 467d7632a4e344d295fcd0d9fa354af7
+  type: page
+  span:
+    start_char: 60798
+    end_char: 61796
+  part_of: bases/v0074
+  part_index: 72
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810075.tif/full/max/0/default.png
+- id: 2ef3f99e6d254d2581baf37626b1bdb5
+  type: page
+  span:
+    start_char: 61801
+    end_char: 62786
+  part_of: bases/v0074
+  part_index: 73
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810076.tif/full/max/0/default.png
+- id: 126097ea7dd84fe38e8e17796f304abb
+  type: page
+  span:
+    start_char: 62791
+    end_char: 63809
+  part_of: bases/v0074
+  part_index: 74
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810077.tif/full/max/0/default.png
+- id: 80999aee527d4f08a622322752cf6417
+  type: page
+  span:
+    start_char: 63814
+    end_char: 64849
+  part_of: bases/v0074
+  part_index: 75
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810078.tif/full/max/0/default.png
+- id: 0950a411c5f1463493a79b8f5e9a3cd2
+  type: page
+  span:
+    start_char: 64854
+    end_char: 65837
+  part_of: bases/v0074
+  part_index: 76
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810079.tif/full/max/0/default.png
+- id: 09642aaa32624ed08a19126d7623e1c8
+  type: page
+  span:
+    start_char: 65842
+    end_char: 66980
+  part_of: bases/v0074
+  part_index: 77
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810080.tif/full/max/0/default.png
+- id: cd2ef1e0f74f4827940e5d5a37916152
+  type: page
+  span:
+    start_char: 66985
+    end_char: 68035
+  part_of: bases/v0074
+  part_index: 78
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810081.tif/full/max/0/default.png
+- id: 3904a24697994bd6b16b8c7b7599d6c1
+  type: page
+  span:
+    start_char: 68040
+    end_char: 69138
+  part_of: bases/v0074
+  part_index: 79
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810082.tif/full/max/0/default.png
+- id: 995c154fc0f347d7907e239197e94acf
+  type: page
+  span:
+    start_char: 69143
+    end_char: 70193
+  part_of: bases/v0074
+  part_index: 80
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810083.tif/full/max/0/default.png
+- id: 1927e1b60ff240b18291f095657b5a3c
+  type: page
+  span:
+    start_char: 70198
+    end_char: 71211
+  part_of: bases/v0074
+  part_index: 81
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810084.tif/full/max/0/default.png
+- id: fbc10c6018ce440b97ae1578764c7bec
+  type: page
+  span:
+    start_char: 71216
+    end_char: 72239
+  part_of: bases/v0074
+  part_index: 82
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810085.tif/full/max/0/default.png
+- id: 6c8e1dafecf94dff8fe9e82fbd1d005d
+  type: page
+  span:
+    start_char: 72244
+    end_char: 73225
+  part_of: bases/v0074
+  part_index: 83
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810086.tif/full/max/0/default.png
+- id: 3929d3a2656a40f8b202227dc90af6db
+  type: page
+  span:
+    start_char: 73230
+    end_char: 74213
+  part_of: bases/v0074
+  part_index: 84
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810087.tif/full/max/0/default.png
+- id: 58b002d10e6a4fb2a2c5df3b52496312
+  type: page
+  span:
+    start_char: 74218
+    end_char: 75224
+  part_of: bases/v0074
+  part_index: 85
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810088.tif/full/max/0/default.png
+- id: c7e7e5e8cc294d4d8ebe5b99392cd529
+  type: page
+  span:
+    start_char: 75229
+    end_char: 76300
+  part_of: bases/v0074
+  part_index: 86
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810089.tif/full/max/0/default.png
+- id: 6bc9ab98c05d42b3b6e9121a81e10c68
+  type: page
+  span:
+    start_char: 76305
+    end_char: 77329
+  part_of: bases/v0074
+  part_index: 87
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810090.tif/full/max/0/default.png
+- id: cd3f2f1aa1fa4fea92ea0c53d298a7aa
+  type: page
+  span:
+    start_char: 77334
+    end_char: 78352
+  part_of: bases/v0074
+  part_index: 88
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810091.tif/full/max/0/default.png
+- id: 408df87510704473adf2776d76b01f7d
+  type: page
+  span:
+    start_char: 78357
+    end_char: 79372
+  part_of: bases/v0074
+  part_index: 89
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810092.tif/full/max/0/default.png
+- id: d51fb64fe6d9412da8573cb15c432d75
+  type: page
+  span:
+    start_char: 79377
+    end_char: 80424
+  part_of: bases/v0074
+  part_index: 90
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810093.tif/full/max/0/default.png
+- id: b1925929e0684ed9844cc51c0baf69f0
+  type: page
+  span:
+    start_char: 80429
+    end_char: 81478
+  part_of: bases/v0074
+  part_index: 91
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810094.tif/full/max/0/default.png
+- id: 212d588d0e1b457aa5a90cb841c1cca9
+  type: page
+  span:
+    start_char: 81483
+    end_char: 82577
+  part_of: bases/v0074
+  part_index: 92
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810095.tif/full/max/0/default.png
+- id: 950de6c64b4843a3b4678277de93f1c0
+  type: page
+  span:
+    start_char: 82582
+    end_char: 83634
+  part_of: bases/v0074
+  part_index: 93
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810096.tif/full/max/0/default.png
+- id: 13b2bfe44a9e4249abc8ec8f71d961d2
+  type: page
+  span:
+    start_char: 83639
+    end_char: 84697
+  part_of: bases/v0074
+  part_index: 94
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810097.tif/full/max/0/default.png
+- id: 37deafe1754e4661a27be1ca8097984a
+  type: page
+  span:
+    start_char: 84702
+    end_char: 85678
+  part_of: bases/v0074
+  part_index: 95
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810098.tif/full/max/0/default.png
+- id: 516b60e69aa547baa9faa62e2e386990
+  type: page
+  span:
+    start_char: 85683
+    end_char: 86676
+  part_of: bases/v0074
+  part_index: 96
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810099.tif/full/max/0/default.png
+- id: be6d15d6a01d47daaf176e7e1873d47a
+  type: page
+  span:
+    start_char: 86681
+    end_char: 87743
+  part_of: bases/v0074
+  part_index: 97
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810100.tif/full/max/0/default.png
+- id: 89edf3568ab542108de6baf9d9bb5d55
+  type: page
+  span:
+    start_char: 87748
+    end_char: 88719
+  part_of: bases/v0074
+  part_index: 98
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810101.tif/full/max/0/default.png
+- id: 4b90cadbd7ba4afd886ff3fa1b700c26
+  type: page
+  span:
+    start_char: 88724
+    end_char: 89701
+  part_of: bases/v0074
+  part_index: 99
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810102.tif/full/max/0/default.png
+- id: 44100b26ff8d4991b49cdf4a8810ab0e
+  type: page
+  span:
+    start_char: 89706
+    end_char: 90684
+  part_of: bases/v0074
+  part_index: 100
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810103.tif/full/max/0/default.png
+- id: 01f7b4b124f44d0e808fdcbf92b91af7
+  type: page
+  span:
+    start_char: 90689
+    end_char: 91722
+  part_of: bases/v0074
+  part_index: 101
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810104.tif/full/max/0/default.png
+- id: fa5a995b765c4b039c9d23d691063567
+  type: page
+  span:
+    start_char: 91727
+    end_char: 92857
+  part_of: bases/v0074
+  part_index: 102
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810105.tif/full/max/0/default.png
+- id: 44bc2be181cf4f85a8063e46ae1ab498
+  type: page
+  span:
+    start_char: 92862
+    end_char: 93886
+  part_of: bases/v0074
+  part_index: 103
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810106.tif/full/max/0/default.png
+- id: 40b4f4aacc554008937bb0c26978e31a
+  type: page
+  span:
+    start_char: 93891
+    end_char: 95025
+  part_of: bases/v0074
+  part_index: 104
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810107.tif/full/max/0/default.png
+- id: ddac2dd617f641b9a97e185a6a467742
+  type: page
+  span:
+    start_char: 95030
+    end_char: 96136
+  part_of: bases/v0074
+  part_index: 105
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810108.tif/full/max/0/default.png
+- id: 5ea3bac9b0ac4c198829e7a09a6539bc
+  type: page
+  span:
+    start_char: 96141
+    end_char: 97248
+  part_of: bases/v0074
+  part_index: 106
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810109.tif/full/max/0/default.png
+- id: cf934a75a0574c978670a9e5d931cc8e
+  type: page
+  span:
+    start_char: 97253
+    end_char: 98356
+  part_of: bases/v0074
+  part_index: 107
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810110.tif/full/max/0/default.png
+- id: f3b1e3a26c7647dbb6c7c13189f1cc79
+  type: page
+  span:
+    start_char: 98361
+    end_char: 99439
+  part_of: bases/v0074
+  part_index: 108
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810111.tif/full/max/0/default.png
+- id: db14f45229c94cf88e21509d40157b38
+  type: page
+  span:
+    start_char: 99444
+    end_char: 100527
+  part_of: bases/v0074
+  part_index: 109
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810112.tif/full/max/0/default.png
+- id: 140a3c5f125c475d8f6e14f3db019d1a
+  type: page
+  span:
+    start_char: 100532
+    end_char: 101608
+  part_of: bases/v0074
+  part_index: 110
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810113.tif/full/max/0/default.png
+- id: 407f146db67146aa83707cbbd2b465c4
+  type: page
+  span:
+    start_char: 101613
+    end_char: 102686
+  part_of: bases/v0074
+  part_index: 111
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810114.tif/full/max/0/default.png
+- id: b2f68e2349f24cb494566bad12e533fc
+  type: page
+  span:
+    start_char: 102691
+    end_char: 103821
+  part_of: bases/v0074
+  part_index: 112
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810115.tif/full/max/0/default.png
+- id: b4e5f3dad6c94181a38f4f8103a0b8ff
+  type: page
+  span:
+    start_char: 103826
+    end_char: 104937
+  part_of: bases/v0074
+  part_index: 113
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810116.tif/full/max/0/default.png
+- id: 4e0301654c6a40d19b558f3a4370e8ac
+  type: page
+  span:
+    start_char: 104942
+    end_char: 106033
+  part_of: bases/v0074
+  part_index: 114
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810117.tif/full/max/0/default.png
+- id: 567c0a0317f24a28b75cb5b416b11d8f
+  type: page
+  span:
+    start_char: 106038
+    end_char: 107089
+  part_of: bases/v0074
+  part_index: 115
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810118.tif/full/max/0/default.png
+- id: 65ae3c1386fc41d790f938237017cfe5
+  type: page
+  span:
+    start_char: 107094
+    end_char: 108303
+  part_of: bases/v0074
+  part_index: 116
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810119.tif/full/max/0/default.png
+- id: 81db8bb053cf4a6db5f4fd2e9cadb0c8
+  type: page
+  span:
+    start_char: 108308
+    end_char: 109448
+  part_of: bases/v0074
+  part_index: 117
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810120.tif/full/max/0/default.png
+- id: 95d42cc2097b43a6afa6631f56ec9a6b
+  type: page
+  span:
+    start_char: 109453
+    end_char: 110631
+  part_of: bases/v0074
+  part_index: 118
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810121.tif/full/max/0/default.png
+- id: 6d8357d7da464ed9bc7579589dc751f1
+  type: page
+  span:
+    start_char: 110636
+    end_char: 111736
+  part_of: bases/v0074
+  part_index: 119
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810122.tif/full/max/0/default.png
+- id: 9266307d3cdf48a281581aee0e0e8017
+  type: page
+  span:
+    start_char: 111741
+    end_char: 112823
+  part_of: bases/v0074
+  part_index: 120
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810123.tif/full/max/0/default.png
+- id: 8195c86800704e92ba7a0ebcd5c311ef
+  type: page
+  span:
+    start_char: 112828
+    end_char: 113919
+  part_of: bases/v0074
+  part_index: 121
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810124.tif/full/max/0/default.png
+- id: 4cd27b31338a4d519595890427c68f6f
+  type: page
+  span:
+    start_char: 113924
+    end_char: 115017
+  part_of: bases/v0074
+  part_index: 122
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810125.tif/full/max/0/default.png
+- id: b03fe741519c45d6b67a1470cc94ae02
+  type: page
+  span:
+    start_char: 115022
+    end_char: 116130
+  part_of: bases/v0074
+  part_index: 123
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810126.tif/full/max/0/default.png
+- id: f28fed57fa3546dc8d6f1069bfda6e24
+  type: page
+  span:
+    start_char: 116135
+    end_char: 117229
+  part_of: bases/v0074
+  part_index: 124
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810127.tif/full/max/0/default.png
+- id: 48a681a678d44b72bf968872e5e9ac86
+  type: page
+  span:
+    start_char: 117234
+    end_char: 118284
+  part_of: bases/v0074
+  part_index: 125
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810128.tif/full/max/0/default.png
+- id: 3c35d9e9cf3249848a259f97502b1c2e
+  type: page
+  span:
+    start_char: 118289
+    end_char: 119368
+  part_of: bases/v0074
+  part_index: 126
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810129.tif/full/max/0/default.png
+- id: e4e58964886440a5b7a012da44feca21
+  type: page
+  span:
+    start_char: 119373
+    end_char: 120534
+  part_of: bases/v0074
+  part_index: 127
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810130.tif/full/max/0/default.png
+- id: 5967a40fb5d240fa9a930a3a7610593f
+  type: page
+  span:
+    start_char: 120539
+    end_char: 121609
+  part_of: bases/v0074
+  part_index: 128
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810131.tif/full/max/0/default.png
+- id: 790b047499bb4a3dbefad71e0fec4521
+  type: page
+  span:
+    start_char: 121614
+    end_char: 122690
+  part_of: bases/v0074
+  part_index: 129
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810132.tif/full/max/0/default.png
+- id: 0cd33702271d4edfb4686f584fb6aed1
+  type: page
+  span:
+    start_char: 122695
+    end_char: 123716
+  part_of: bases/v0074
+  part_index: 130
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810133.tif/full/max/0/default.png
+- id: 7280ac00f8a64567a3e0ecccfd12021a
+  type: page
+  span:
+    start_char: 123721
+    end_char: 124780
+  part_of: bases/v0074
+  part_index: 131
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810134.tif/full/max/0/default.png
+- id: a7486e7bc44545cfb57eeff50c026d1d
+  type: page
+  span:
+    start_char: 124785
+    end_char: 125778
+  part_of: bases/v0074
+  part_index: 132
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810135.tif/full/max/0/default.png
+- id: 54a1ce2e69334a449874b2bbadc0c516
+  type: page
+  span:
+    start_char: 125783
+    end_char: 126873
+  part_of: bases/v0074
+  part_index: 133
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810136.tif/full/max/0/default.png
+- id: f5e6c03c5d87401bb34f8180bf1983a8
+  type: page
+  span:
+    start_char: 126878
+    end_char: 127983
+  part_of: bases/v0074
+  part_index: 134
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810137.tif/full/max/0/default.png
+- id: ca8eca247caa4e379432dd5240bdd517
+  type: page
+  span:
+    start_char: 127988
+    end_char: 129045
+  part_of: bases/v0074
+  part_index: 135
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810138.tif/full/max/0/default.png
+- id: 395a44fe2c8c4e9ea2fb3820427fe2c0
+  type: page
+  span:
+    start_char: 129050
+    end_char: 130096
+  part_of: bases/v0074
+  part_index: 136
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810139.tif/full/max/0/default.png
+- id: 8718dd2af3ca4144b772e12e27801853
+  type: page
+  span:
+    start_char: 130101
+    end_char: 131167
+  part_of: bases/v0074
+  part_index: 137
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810140.tif/full/max/0/default.png
+- id: a507a9ca699e46c0ab8045af8fd59aa5
+  type: page
+  span:
+    start_char: 131172
+    end_char: 132249
+  part_of: bases/v0074
+  part_index: 138
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810141.tif/full/max/0/default.png
+- id: 9608486804bb429399dff76e6c9f4cfe
+  type: page
+  span:
+    start_char: 132254
+    end_char: 133363
+  part_of: bases/v0074
+  part_index: 139
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810142.tif/full/max/0/default.png
+- id: 42799bc5a9204f7b824037ac36005246
+  type: page
+  span:
+    start_char: 133368
+    end_char: 134453
+  part_of: bases/v0074
+  part_index: 140
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810143.tif/full/max/0/default.png
+- id: 0221593c446c4234849900a863232566
+  type: page
+  span:
+    start_char: 134458
+    end_char: 135551
+  part_of: bases/v0074
+  part_index: 141
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810144.tif/full/max/0/default.png
+- id: f02899e3c8314ac8b8c3918f7f95109f
+  type: page
+  span:
+    start_char: 135556
+    end_char: 136674
+  part_of: bases/v0074
+  part_index: 142
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810145.tif/full/max/0/default.png
+- id: e342ef0bfa824f36a32607d97366ccda
+  type: page
+  span:
+    start_char: 136679
+    end_char: 137817
+  part_of: bases/v0074
+  part_index: 143
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810146.tif/full/max/0/default.png
+- id: 4bab8c7461574ccda8d84ce6abeccd59
+  type: page
+  span:
+    start_char: 137822
+    end_char: 138909
+  part_of: bases/v0074
+  part_index: 144
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810147.tif/full/max/0/default.png
+- id: b7c847539673482ba46a6f7953f7c261
+  type: page
+  span:
+    start_char: 138914
+    end_char: 139994
+  part_of: bases/v0074
+  part_index: 145
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810148.tif/full/max/0/default.png
+- id: 03828b23a70f41cebd6f4f8efddd29a1
+  type: page
+  span:
+    start_char: 139999
+    end_char: 141149
+  part_of: bases/v0074
+  part_index: 146
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810149.tif/full/max/0/default.png
+- id: b0fbb554199e4a64b95e63cc48a8ea92
+  type: page
+  span:
+    start_char: 141154
+    end_char: 142291
+  part_of: bases/v0074
+  part_index: 147
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810150.tif/full/max/0/default.png
+- id: 00d967a0cef64977984d2c29daab4361
+  type: page
+  span:
+    start_char: 142296
+    end_char: 143439
+  part_of: bases/v0074
+  part_index: 148
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810151.tif/full/max/0/default.png
+- id: 40b045382a354a3fbd0b353ea7b0f95c
+  type: page
+  span:
+    start_char: 143444
+    end_char: 144580
+  part_of: bases/v0074
+  part_index: 149
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810152.tif/full/max/0/default.png
+- id: 0de8184269834d1197edcb23758931f3
+  type: page
+  span:
+    start_char: 144585
+    end_char: 145636
+  part_of: bases/v0074
+  part_index: 150
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810153.tif/full/max/0/default.png
+- id: d07447b84b7b490e81a02f573ecffc9e
+  type: page
+  span:
+    start_char: 145641
+    end_char: 146719
+  part_of: bases/v0074
+  part_index: 151
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810154.tif/full/max/0/default.png
+- id: 916159f2045b4e80a96532ff7c052508
+  type: page
+  span:
+    start_char: 146724
+    end_char: 147840
+  part_of: bases/v0074
+  part_index: 152
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810155.tif/full/max/0/default.png
+- id: 0f537747f3064e32b2601ce58b59da35
+  type: page
+  span:
+    start_char: 147845
+    end_char: 148938
+  part_of: bases/v0074
+  part_index: 153
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810156.tif/full/max/0/default.png
+- id: dd9344a0ec534decbfc7ca667663c4f9
+  type: page
+  span:
+    start_char: 148943
+    end_char: 150000
+  part_of: bases/v0074
+  part_index: 154
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810157.tif/full/max/0/default.png
+- id: 1a20bdcee95e427bb7c8a8afc4f6627a
+  type: page
+  span:
+    start_char: 150005
+    end_char: 151111
+  part_of: bases/v0074
+  part_index: 155
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810158.tif/full/max/0/default.png
+- id: 81788b2b22154a22915554e8f6d0ac91
+  type: page
+  span:
+    start_char: 151116
+    end_char: 152219
+  part_of: bases/v0074
+  part_index: 156
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810159.tif/full/max/0/default.png
+- id: 47c56b08700d4240b3cbb9d657817552
+  type: page
+  span:
+    start_char: 152224
+    end_char: 153316
+  part_of: bases/v0074
+  part_index: 157
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810160.tif/full/max/0/default.png
+- id: 527cde543b644570b12b11c440857835
+  type: page
+  span:
+    start_char: 153321
+    end_char: 154405
+  part_of: bases/v0074
+  part_index: 158
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810161.tif/full/max/0/default.png
+- id: 6b21325ea51047f48ece12e4d84edd5b
+  type: page
+  span:
+    start_char: 154410
+    end_char: 155437
+  part_of: bases/v0074
+  part_index: 159
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810162.tif/full/max/0/default.png
+- id: 91d1a6827b854ab8b781b2ed7ea0c6b3
+  type: page
+  span:
+    start_char: 155442
+    end_char: 156544
+  part_of: bases/v0074
+  part_index: 160
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810163.tif/full/max/0/default.png
+- id: 01700eb4e8b0487981e24b110203a524
+  type: page
+  span:
+    start_char: 156549
+    end_char: 157640
+  part_of: bases/v0074
+  part_index: 161
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810164.tif/full/max/0/default.png
+- id: ab0316f647664d669fa6522d239fffca
+  type: page
+  span:
+    start_char: 157645
+    end_char: 158795
+  part_of: bases/v0074
+  part_index: 162
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810165.tif/full/max/0/default.png
+- id: 610a852075564fe194336aa6186c05c5
+  type: page
+  span:
+    start_char: 158800
+    end_char: 159931
+  part_of: bases/v0074
+  part_index: 163
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810166.tif/full/max/0/default.png
+- id: fb159c7bfcb6470d82a7f330249b7cbb
+  type: page
+  span:
+    start_char: 159936
+    end_char: 161002
+  part_of: bases/v0074
+  part_index: 164
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810167.tif/full/max/0/default.png
+- id: 2225b2ae8b89462d804722a510173748
+  type: page
+  span:
+    start_char: 161007
+    end_char: 162124
+  part_of: bases/v0074
+  part_index: 165
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810168.tif/full/max/0/default.png
+- id: 78742a7ec83e4fcc8098d947ad1bf894
+  type: page
+  span:
+    start_char: 162129
+    end_char: 163215
+  part_of: bases/v0074
+  part_index: 166
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810169.tif/full/max/0/default.png
+- id: f426fd7522004a9abe622f2919714def
+  type: page
+  span:
+    start_char: 163220
+    end_char: 164350
+  part_of: bases/v0074
+  part_index: 167
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810170.tif/full/max/0/default.png
+- id: d149010e980c4a24aeaf12d584a5b5d2
+  type: page
+  span:
+    start_char: 164355
+    end_char: 165489
+  part_of: bases/v0074
+  part_index: 168
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810171.tif/full/max/0/default.png
+- id: 0820012126e84807a33ae438b52c9543
+  type: page
+  span:
+    start_char: 165494
+    end_char: 166634
+  part_of: bases/v0074
+  part_index: 169
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810172.tif/full/max/0/default.png
+- id: 45c08e44ff7f4a17aebbcf6043011f2b
+  type: page
+  span:
+    start_char: 166639
+    end_char: 167761
+  part_of: bases/v0074
+  part_index: 170
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810173.tif/full/max/0/default.png
+- id: 8897bf598e324064a43ad62fad481813
+  type: page
+  span:
+    start_char: 167766
+    end_char: 168922
+  part_of: bases/v0074
+  part_index: 171
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810174.tif/full/max/0/default.png
+- id: 72c6cc92b08842fa9b7e2ebe81aaaebf
+  type: page
+  span:
+    start_char: 168927
+    end_char: 170020
+  part_of: bases/v0074
+  part_index: 172
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810175.tif/full/max/0/default.png
+- id: a97c7927fc65469bb1f9a80d0bdeab7b
+  type: page
+  span:
+    start_char: 170025
+    end_char: 171149
+  part_of: bases/v0074
+  part_index: 173
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810176.tif/full/max/0/default.png
+- id: 2fc580c5f4b842f6aa239ec8153c3cbd
+  type: page
+  span:
+    start_char: 171154
+    end_char: 172258
+  part_of: bases/v0074
+  part_index: 174
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810177.tif/full/max/0/default.png
+- id: b1229e68ddf241e58cf21165ebffd8a8
+  type: page
+  span:
+    start_char: 172263
+    end_char: 173387
+  part_of: bases/v0074
+  part_index: 175
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810178.tif/full/max/0/default.png
+- id: 32a49266285e4c61913800cff3c2172b
+  type: page
+  span:
+    start_char: 173392
+    end_char: 174453
+  part_of: bases/v0074
+  part_index: 176
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810179.tif/full/max/0/default.png
+- id: 517ea2a28f9b4e999d6127861e4be189
+  type: page
+  span:
+    start_char: 174458
+    end_char: 175537
+  part_of: bases/v0074
+  part_index: 177
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810180.tif/full/max/0/default.png
+- id: 6f3121aebcb243c0b2ff4a2421790059
+  type: page
+  span:
+    start_char: 175542
+    end_char: 176616
+  part_of: bases/v0074
+  part_index: 178
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810181.tif/full/max/0/default.png
+- id: 1ef5458bcf7a4abaaa0be8b506f9733a
+  type: page
+  span:
+    start_char: 176621
+    end_char: 177729
+  part_of: bases/v0074
+  part_index: 179
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810182.tif/full/max/0/default.png
+- id: f505c94756e744c08322c952b48a9fea
+  type: page
+  span:
+    start_char: 177734
+    end_char: 178840
+  part_of: bases/v0074
+  part_index: 180
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810183.tif/full/max/0/default.png
+- id: cbddec29440c45238cee66e3f6d2cd33
+  type: page
+  span:
+    start_char: 178845
+    end_char: 179889
+  part_of: bases/v0074
+  part_index: 181
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810184.tif/full/max/0/default.png
+- id: 3acb9e1e6ad144b2a35662ad3ef83050
+  type: page
+  span:
+    start_char: 179894
+    end_char: 180955
+  part_of: bases/v0074
+  part_index: 182
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810185.tif/full/max/0/default.png
+- id: c07d1bfe3d544a9299c879faea470a8a
+  type: page
+  span:
+    start_char: 180960
+    end_char: 182065
+  part_of: bases/v0074
+  part_index: 183
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810186.tif/full/max/0/default.png
+- id: 118c6db6eb514785ad2b5cf7b523542d
+  type: page
+  span:
+    start_char: 182070
+    end_char: 183077
+  part_of: bases/v0074
+  part_index: 184
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810187.tif/full/max/0/default.png
+- id: 7c4cd553aa174636b5e02612e446cd24
+  type: page
+  span:
+    start_char: 183082
+    end_char: 184144
+  part_of: bases/v0074
+  part_index: 185
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810188.tif/full/max/0/default.png
+- id: fd6c4489e1b0464aa0239af3dfe851e3
+  type: page
+  span:
+    start_char: 184149
+    end_char: 185167
+  part_of: bases/v0074
+  part_index: 186
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810189.tif/full/max/0/default.png
+- id: 68062e3a341446f5a90d61c0ad07c2e8
+  type: page
+  span:
+    start_char: 185172
+    end_char: 186283
+  part_of: bases/v0074
+  part_index: 187
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810190.tif/full/max/0/default.png
+- id: 9ea13ed7cc4747f487a69349b06666db
+  type: page
+  span:
+    start_char: 186288
+    end_char: 187401
+  part_of: bases/v0074
+  part_index: 188
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810191.tif/full/max/0/default.png
+- id: 3521de31347a40b1b531e561541e5633
+  type: page
+  span:
+    start_char: 187406
+    end_char: 188504
+  part_of: bases/v0074
+  part_index: 189
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810192.tif/full/max/0/default.png
+- id: 312141b527234657985f08fc333156d6
+  type: page
+  span:
+    start_char: 188509
+    end_char: 189605
+  part_of: bases/v0074
+  part_index: 190
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810193.tif/full/max/0/default.png
+- id: 159e6998d9c44161970654704d435f78
+  type: page
+  span:
+    start_char: 189610
+    end_char: 190627
+  part_of: bases/v0074
+  part_index: 191
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810194.tif/full/max/0/default.png
+- id: 9654c6813f674e4ca06d2daf61103860
+  type: page
+  span:
+    start_char: 190632
+    end_char: 191758
+  part_of: bases/v0074
+  part_index: 192
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810195.tif/full/max/0/default.png
+- id: 33b6b3287cf54bbba6f7292df648b77a
+  type: page
+  span:
+    start_char: 191763
+    end_char: 192894
+  part_of: bases/v0074
+  part_index: 193
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810196.tif/full/max/0/default.png
+- id: 656655b324124540925e92e50c452d53
+  type: page
+  span:
+    start_char: 192899
+    end_char: 194019
+  part_of: bases/v0074
+  part_index: 194
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810197.tif/full/max/0/default.png
+- id: 96930c7736b34edebcb9f04c874663c6
+  type: page
+  span:
+    start_char: 194024
+    end_char: 195132
+  part_of: bases/v0074
+  part_index: 195
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810198.tif/full/max/0/default.png
+- id: 492db4e68c074e4bb0622e75aa933bf7
+  type: page
+  span:
+    start_char: 195137
+    end_char: 196209
+  part_of: bases/v0074
+  part_index: 196
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810199.tif/full/max/0/default.png
+- id: 7fac812978974b468688b91a802f2aa2
+  type: page
+  span:
+    start_char: 196214
+    end_char: 197262
+  part_of: bases/v0074
+  part_index: 197
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810200.tif/full/max/0/default.png
+- id: ab6b680624134bb8a5f399f1b256fd6a
+  type: page
+  span:
+    start_char: 197267
+    end_char: 198356
+  part_of: bases/v0074
+  part_index: 198
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810201.tif/full/max/0/default.png
+- id: 6229027002044e7593a88b3d137ddf70
+  type: page
+  span:
+    start_char: 198361
+    end_char: 199444
+  part_of: bases/v0074
+  part_index: 199
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810202.tif/full/max/0/default.png
+- id: 69bde4d6a3c04b858b1dc036be9077f0
+  type: page
+  span:
+    start_char: 199449
+    end_char: 200527
+  part_of: bases/v0074
+  part_index: 200
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810203.tif/full/max/0/default.png
+- id: c49e2c2071fe42228140151fa478603a
+  type: page
+  span:
+    start_char: 200532
+    end_char: 201611
+  part_of: bases/v0074
+  part_index: 201
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810204.tif/full/max/0/default.png
+- id: b2a737e05ba34fcb96dafbb4d68e536f
+  type: page
+  span:
+    start_char: 201616
+    end_char: 202638
+  part_of: bases/v0074
+  part_index: 202
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810205.tif/full/max/0/default.png
+- id: 67514e2224494b60b98b564e9e1f37f8
+  type: page
+  span:
+    start_char: 202643
+    end_char: 203730
+  part_of: bases/v0074
+  part_index: 203
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810206.tif/full/max/0/default.png
+- id: 064d3f8514c94715873607df6b656f1a
+  type: page
+  span:
+    start_char: 203735
+    end_char: 204801
+  part_of: bases/v0074
+  part_index: 204
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810207.tif/full/max/0/default.png
+- id: cee366b36ccb4befa4df9f7ff7dc0c5d
+  type: page
+  span:
+    start_char: 204806
+    end_char: 205891
+  part_of: bases/v0074
+  part_index: 205
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810208.tif/full/max/0/default.png
+- id: 59fb89a9afd24e2cb0e53d734813a712
+  type: page
+  span:
+    start_char: 205896
+    end_char: 206918
+  part_of: bases/v0074
+  part_index: 206
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810209.tif/full/max/0/default.png
+- id: d5965985222747d4bb6dd3458e4b0a6a
+  type: page
+  span:
+    start_char: 206923
+    end_char: 207923
+  part_of: bases/v0074
+  part_index: 207
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810210.tif/full/max/0/default.png
+- id: a31358399103465b9de63346be266e72
+  type: page
+  span:
+    start_char: 207928
+    end_char: 208999
+  part_of: bases/v0074
+  part_index: 208
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810211.tif/full/max/0/default.png
+- id: a57b0d95e33e4c478f492638e74abb8d
+  type: page
+  span:
+    start_char: 209004
+    end_char: 210081
+  part_of: bases/v0074
+  part_index: 209
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810212.tif/full/max/0/default.png
+- id: 9d290a4d5c8d49e3bfa706cbc8db4c75
+  type: page
+  span:
+    start_char: 210086
+    end_char: 211171
+  part_of: bases/v0074
+  part_index: 210
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810213.tif/full/max/0/default.png
+- id: 7097030d4b684eba8629d83aa19c02c8
+  type: page
+  span:
+    start_char: 211176
+    end_char: 212137
+  part_of: bases/v0074
+  part_index: 211
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810214.tif/full/max/0/default.png
+- id: 94f8bb479aae489bb46bc073befb8bcb
+  type: page
+  span:
+    start_char: 212142
+    end_char: 213169
+  part_of: bases/v0074
+  part_index: 212
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810215.tif/full/max/0/default.png
+- id: 40802ea486d644adb6ee2f8db8e6cc58
+  type: page
+  span:
+    start_char: 213174
+    end_char: 214242
+  part_of: bases/v0074
+  part_index: 213
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810216.tif/full/max/0/default.png
+- id: f3d19fdff2de42deb42adc0ae2e9c153
+  type: page
+  span:
+    start_char: 214247
+    end_char: 215277
+  part_of: bases/v0074
+  part_index: 214
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810217.tif/full/max/0/default.png
+- id: b7c6cb1949244eb083329c96cc4ce430
+  type: page
+  span:
+    start_char: 215282
+    end_char: 216233
+  part_of: bases/v0074
+  part_index: 215
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810218.tif/full/max/0/default.png
+- id: 638b2b4e496c48d796e5f9331703fc9c
+  type: page
+  span:
+    start_char: 216238
+    end_char: 217201
+  part_of: bases/v0074
+  part_index: 216
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810219.tif/full/max/0/default.png
+- id: a3ce6423ffb0436b9c5a45e784a0e7bd
+  type: page
+  span:
+    start_char: 217206
+    end_char: 218130
+  part_of: bases/v0074
+  part_index: 217
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810220.tif/full/max/0/default.png
+- id: 415f64a2fa14433e95b9ac0d753dac3d
+  type: page
+  span:
+    start_char: 218135
+    end_char: 219114
+  part_of: bases/v0074
+  part_index: 218
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810221.tif/full/max/0/default.png
+- id: 67a7c23cf0664fb0bc8360b1ffd777e0
+  type: page
+  span:
+    start_char: 219119
+    end_char: 220070
+  part_of: bases/v0074
+  part_index: 219
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810222.tif/full/max/0/default.png
+- id: 2a88ac653492483db171b68390a61fe3
+  type: page
+  span:
+    start_char: 220075
+    end_char: 221017
+  part_of: bases/v0074
+  part_index: 220
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810223.tif/full/max/0/default.png
+- id: a0e9580865f34882b62d162de6f4b71e
+  type: page
+  span:
+    start_char: 221022
+    end_char: 222075
+  part_of: bases/v0074
+  part_index: 221
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810224.tif/full/max/0/default.png
+- id: ea8bfbf775e74ba3903a69b9ca13e06c
+  type: page
+  span:
+    start_char: 222080
+    end_char: 223150
+  part_of: bases/v0074
+  part_index: 222
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810225.tif/full/max/0/default.png
+- id: 29b8e6ba1c5644959e0dc805ff32a5bf
+  type: page
+  span:
+    start_char: 223155
+    end_char: 224233
+  part_of: bases/v0074
+  part_index: 223
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810226.tif/full/max/0/default.png
+- id: c49387450e254972b1239832a022ddb1
+  type: page
+  span:
+    start_char: 224238
+    end_char: 225244
+  part_of: bases/v0074
+  part_index: 224
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810227.tif/full/max/0/default.png
+- id: 07aec632554c4694901cf2a792640471
+  type: page
+  span:
+    start_char: 225249
+    end_char: 226289
+  part_of: bases/v0074
+  part_index: 225
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810228.tif/full/max/0/default.png
+- id: 555264353bb94592b53363139fc837b0
+  type: page
+  span:
+    start_char: 226294
+    end_char: 227244
+  part_of: bases/v0074
+  part_index: 226
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810229.tif/full/max/0/default.png
+- id: d30e621b59cc462c9ba1907514ee5d13
+  type: page
+  span:
+    start_char: 227249
+    end_char: 228178
+  part_of: bases/v0074
+  part_index: 227
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810230.tif/full/max/0/default.png
+- id: ae0bfbeb07464a3386a244840389e9f7
+  type: page
+  span:
+    start_char: 228183
+    end_char: 229149
+  part_of: bases/v0074
+  part_index: 228
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810231.tif/full/max/0/default.png
+- id: 894a6294c0344631809c3581ef198725
+  type: page
+  span:
+    start_char: 229154
+    end_char: 230139
+  part_of: bases/v0074
+  part_index: 229
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810232.tif/full/max/0/default.png
+- id: 7c06aef30a8c491192ec363bc096d310
+  type: page
+  span:
+    start_char: 230144
+    end_char: 231190
+  part_of: bases/v0074
+  part_index: 230
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810233.tif/full/max/0/default.png
+- id: a426368a5d8b47829a95c2d553e778c6
+  type: page
+  span:
+    start_char: 231195
+    end_char: 232245
+  part_of: bases/v0074
+  part_index: 231
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810234.tif/full/max/0/default.png
+- id: 1cb60c349d7c4204a39bde3fcf5ce653
+  type: page
+  span:
+    start_char: 232250
+    end_char: 233265
+  part_of: bases/v0074
+  part_index: 232
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810235.tif/full/max/0/default.png
+- id: a091d7878c504db8829c8800957aa174
+  type: page
+  span:
+    start_char: 233270
+    end_char: 234328
+  part_of: bases/v0074
+  part_index: 233
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810236.tif/full/max/0/default.png
+- id: 5d382f7b9bdb4418832fe64c3fdbfd1e
+  type: page
+  span:
+    start_char: 234333
+    end_char: 235281
+  part_of: bases/v0074
+  part_index: 234
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810237.tif/full/max/0/default.png
+- id: a8d4320695a141008614891331dc555c
+  type: page
+  span:
+    start_char: 235286
+    end_char: 236311
+  part_of: bases/v0074
+  part_index: 235
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810238.tif/full/max/0/default.png
+- id: 1f1772caa7464d53b2511fa54eb4a05b
+  type: page
+  span:
+    start_char: 236316
+    end_char: 237207
+  part_of: bases/v0074
+  part_index: 236
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810239.tif/full/max/0/default.png
+- id: 9e85f01bed664d3983fb5a6de4d4eba5
+  type: page
+  span:
+    start_char: 237212
+    end_char: 238207
+  part_of: bases/v0074
+  part_index: 237
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810240.tif/full/max/0/default.png
+- id: 7cbbd66d864d4156a896442ff3228b04
+  type: page
+  span:
+    start_char: 238212
+    end_char: 239216
+  part_of: bases/v0074
+  part_index: 238
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810241.tif/full/max/0/default.png
+- id: 673409d94acb45689b964a211da511ac
+  type: page
+  span:
+    start_char: 239221
+    end_char: 240191
+  part_of: bases/v0074
+  part_index: 239
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810242.tif/full/max/0/default.png
+- id: 3c520fffae2f4f9f831b74b8a990d2c3
+  type: page
+  span:
+    start_char: 240196
+    end_char: 241231
+  part_of: bases/v0074
+  part_index: 240
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810243.tif/full/max/0/default.png
+- id: b2445e9eede74163a18c239547fc803d
+  type: page
+  span:
+    start_char: 241236
+    end_char: 242208
+  part_of: bases/v0074
+  part_index: 241
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810244.tif/full/max/0/default.png
+- id: b7b76dde63534aeab4b79464f42c1dc2
+  type: page
+  span:
+    start_char: 242213
+    end_char: 243153
+  part_of: bases/v0074
+  part_index: 242
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810245.tif/full/max/0/default.png
+- id: b5cd6748ec864557af140ef178af3a11
+  type: page
+  span:
+    start_char: 243158
+    end_char: 244072
+  part_of: bases/v0074
+  part_index: 243
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810246.tif/full/max/0/default.png
+- id: 4ec2dbc93a414400992b3583f0ff228f
+  type: page
+  span:
+    start_char: 244077
+    end_char: 245033
+  part_of: bases/v0074
+  part_index: 244
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810247.tif/full/max/0/default.png
+- id: 6ec4f3dc84a54338b25a15ee2b9e086f
+  type: page
+  span:
+    start_char: 245038
+    end_char: 246043
+  part_of: bases/v0074
+  part_index: 245
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810248.tif/full/max/0/default.png
+- id: 84ef7e7c1f0f456bace3bac1a9f69fdf
+  type: page
+  span:
+    start_char: 246048
+    end_char: 247055
+  part_of: bases/v0074
+  part_index: 246
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810249.tif/full/max/0/default.png
+- id: 693d1c9afbe04e2db469906cdf85ea09
+  type: page
+  span:
+    start_char: 247060
+    end_char: 248048
+  part_of: bases/v0074
+  part_index: 247
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810250.tif/full/max/0/default.png
+- id: 904b79eefb2a4f10952a884954d161ca
+  type: page
+  span:
+    start_char: 248053
+    end_char: 249057
+  part_of: bases/v0074
+  part_index: 248
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810251.tif/full/max/0/default.png
+- id: a0a24ba464f54ad19b8a7669c526c906
+  type: page
+  span:
+    start_char: 249062
+    end_char: 250084
+  part_of: bases/v0074
+  part_index: 249
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810252.tif/full/max/0/default.png
+- id: 14ea002d30944bac80869f541cf98985
+  type: page
+  span:
+    start_char: 250089
+    end_char: 251078
+  part_of: bases/v0074
+  part_index: 250
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810253.tif/full/max/0/default.png
+- id: 81cb4ca2122b4c3b87ee94ae13172867
+  type: page
+  span:
+    start_char: 251083
+    end_char: 252072
+  part_of: bases/v0074
+  part_index: 251
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810254.tif/full/max/0/default.png
+- id: df3c9115ffc34d4bb7d858545557f736
+  type: page
+  span:
+    start_char: 252077
+    end_char: 253037
+  part_of: bases/v0074
+  part_index: 252
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810255.tif/full/max/0/default.png
+- id: 8cdda010fed14ad89bcbce092cce26dc
+  type: page
+  span:
+    start_char: 253042
+    end_char: 254088
+  part_of: bases/v0074
+  part_index: 253
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810256.tif/full/max/0/default.png
+- id: 067d5c706fc848d9b4b1468e5ee70058
+  type: page
+  span:
+    start_char: 254093
+    end_char: 255061
+  part_of: bases/v0074
+  part_index: 254
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810257.tif/full/max/0/default.png
+- id: 6f5c4f76f8c34cbaba02cbd81c9fa5f9
+  type: page
+  span:
+    start_char: 255066
+    end_char: 256060
+  part_of: bases/v0074
+  part_index: 255
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810258.tif/full/max/0/default.png
+- id: 0d94a509d82f4131801fd5759b93b1e6
+  type: page
+  span:
+    start_char: 256065
+    end_char: 257055
+  part_of: bases/v0074
+  part_index: 256
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810259.tif/full/max/0/default.png
+- id: b998a466c5da46d1ac72c179c9db6536
+  type: page
+  span:
+    start_char: 257060
+    end_char: 258096
+  part_of: bases/v0074
+  part_index: 257
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810260.tif/full/max/0/default.png
+- id: 398b9e2d37e840eca23de6a3a7aa3b44
+  type: page
+  span:
+    start_char: 258101
+    end_char: 259103
+  part_of: bases/v0074
+  part_index: 258
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810261.tif/full/max/0/default.png
+- id: df92a8256f6440d2b59ae68e084dc9ac
+  type: page
+  span:
+    start_char: 259108
+    end_char: 260082
+  part_of: bases/v0074
+  part_index: 259
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810262.tif/full/max/0/default.png
+- id: 3507c3dcb6a94ce0830c75229f09855b
+  type: page
+  span:
+    start_char: 260087
+    end_char: 261076
+  part_of: bases/v0074
+  part_index: 260
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810263.tif/full/max/0/default.png
+- id: 688fb8c705ec4ddc8d746cdac80f059e
+  type: page
+  span:
+    start_char: 261081
+    end_char: 262044
+  part_of: bases/v0074
+  part_index: 261
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810264.tif/full/max/0/default.png
+- id: 8589d13694ef47a79223ae2aee982032
+  type: page
+  span:
+    start_char: 262049
+    end_char: 263057
+  part_of: bases/v0074
+  part_index: 262
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810265.tif/full/max/0/default.png
+- id: ddfee8fa60da44089e6e3580b87ee72f
+  type: page
+  span:
+    start_char: 263062
+    end_char: 264062
+  part_of: bases/v0074
+  part_index: 263
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810266.tif/full/max/0/default.png
+- id: 6761ad4c66584df9863d5a771887e9bc
+  type: page
+  span:
+    start_char: 264067
+    end_char: 265059
+  part_of: bases/v0074
+  part_index: 264
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810267.tif/full/max/0/default.png
+- id: f230321507cd451b886457a0592cab6d
+  type: page
+  span:
+    start_char: 265064
+    end_char: 266075
+  part_of: bases/v0074
+  part_index: 265
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810268.tif/full/max/0/default.png
+- id: 8d6ffe935af148c69321860df2ef1605
+  type: page
+  span:
+    start_char: 266080
+    end_char: 267061
+  part_of: bases/v0074
+  part_index: 266
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810269.tif/full/max/0/default.png
+- id: 56290574439b498bb2ffc32fd15f647d
+  type: page
+  span:
+    start_char: 267066
+    end_char: 268046
+  part_of: bases/v0074
+  part_index: 267
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810270.tif/full/max/0/default.png
+- id: d60479a008e74d4e845a54361f45faf6
+  type: page
+  span:
+    start_char: 268051
+    end_char: 269073
+  part_of: bases/v0074
+  part_index: 268
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810271.tif/full/max/0/default.png
+- id: 307f1e6f304d411d9389d65e1dd61a3e
+  type: page
+  span:
+    start_char: 269078
+    end_char: 270059
+  part_of: bases/v0074
+  part_index: 269
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810272.tif/full/max/0/default.png
+- id: 73c654c7b44d45b4ac8c4f5137b6b2f2
+  type: page
+  span:
+    start_char: 270064
+    end_char: 271062
+  part_of: bases/v0074
+  part_index: 270
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810273.tif/full/max/0/default.png
+- id: 44a9baf3b0bf43cebbde262daf4b3b6e
+  type: page
+  span:
+    start_char: 271067
+    end_char: 272068
+  part_of: bases/v0074
+  part_index: 271
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810274.tif/full/max/0/default.png
+- id: 670046b7f13748e5b05e96e740c4a492
+  type: page
+  span:
+    start_char: 272073
+    end_char: 273066
+  part_of: bases/v0074
+  part_index: 272
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810275.tif/full/max/0/default.png
+- id: 2611591ac116430d81a27897c02a2dde
+  type: page
+  span:
+    start_char: 273071
+    end_char: 274058
+  part_of: bases/v0074
+  part_index: 273
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810276.tif/full/max/0/default.png
+- id: 023e117c53fd49229f9a930a7b05b720
+  type: page
+  span:
+    start_char: 274063
+    end_char: 275050
+  part_of: bases/v0074
+  part_index: 274
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810277.tif/full/max/0/default.png
+- id: a246c83e840847c78bb4a4d7a68594d6
+  type: page
+  span:
+    start_char: 275055
+    end_char: 276104
+  part_of: bases/v0074
+  part_index: 275
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810278.tif/full/max/0/default.png
+- id: e58e46193dc3476ba963e3130bc8787f
+  type: page
+  span:
+    start_char: 276109
+    end_char: 277015
+  part_of: bases/v0074
+  part_index: 276
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810279.tif/full/max/0/default.png
+- id: ec2d0053be154dd8a432783fdb356385
+  type: page
+  span:
+    start_char: 277020
+    end_char: 278066
+  part_of: bases/v0074
+  part_index: 277
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810280.tif/full/max/0/default.png
+- id: 7d40566f8dab4de0aa4e9edc1d1b2710
+  type: page
+  span:
+    start_char: 278071
+    end_char: 279071
+  part_of: bases/v0074
+  part_index: 278
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810281.tif/full/max/0/default.png
+- id: 22a3c557bab744369a337eb65fb987cc
+  type: page
+  span:
+    start_char: 279076
+    end_char: 280091
+  part_of: bases/v0074
+  part_index: 279
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810282.tif/full/max/0/default.png
+- id: fa95777e26134b8783a92df4c78105c8
+  type: page
+  span:
+    start_char: 280096
+    end_char: 281128
+  part_of: bases/v0074
+  part_index: 280
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810283.tif/full/max/0/default.png
+- id: dc9b6774d8cc4a7da67810a03aac7a35
+  type: page
+  span:
+    start_char: 281133
+    end_char: 282162
+  part_of: bases/v0074
+  part_index: 281
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810284.tif/full/max/0/default.png
+- id: f204edb344804153b4fe04342c2fed70
+  type: page
+  span:
+    start_char: 282167
+    end_char: 283161
+  part_of: bases/v0074
+  part_index: 282
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810285.tif/full/max/0/default.png
+- id: a338e7c2464a43f1a6a1ab560078bf6d
+  type: page
+  span:
+    start_char: 283166
+    end_char: 284156
+  part_of: bases/v0074
+  part_index: 283
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810286.tif/full/max/0/default.png
+- id: 47bafe74a67a4c1299a6a74303ce9fe3
+  type: page
+  span:
+    start_char: 284161
+    end_char: 285174
+  part_of: bases/v0074
+  part_index: 284
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810287.tif/full/max/0/default.png
+- id: 77db458d225647b09214dc398f9dcff4
+  type: page
+  span:
+    start_char: 285179
+    end_char: 286203
+  part_of: bases/v0074
+  part_index: 285
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810288.tif/full/max/0/default.png
+- id: ce761a4bcaea4418b9dc29ac0aa704d2
+  type: page
+  span:
+    start_char: 286208
+    end_char: 287251
+  part_of: bases/v0074
+  part_index: 286
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810289.tif/full/max/0/default.png
+- id: 0e3001b1b939436899a084e40f56c4a0
+  type: page
+  span:
+    start_char: 287256
+    end_char: 288276
+  part_of: bases/v0074
+  part_index: 287
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810290.tif/full/max/0/default.png
+- id: 98b30b387a7148a59e4079b526f975db
+  type: page
+  span:
+    start_char: 288281
+    end_char: 289284
+  part_of: bases/v0074
+  part_index: 288
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810291.tif/full/max/0/default.png
+- id: 3f3d6472511047ef89337e0f6266651d
+  type: page
+  span:
+    start_char: 289289
+    end_char: 290276
+  part_of: bases/v0074
+  part_index: 289
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810292.tif/full/max/0/default.png
+- id: cc2d9ab7ce5e4c70ad9c29b863262d10
+  type: page
+  span:
+    start_char: 290281
+    end_char: 291219
+  part_of: bases/v0074
+  part_index: 290
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810293.tif/full/max/0/default.png
+- id: 38d75f235c1140bebec34b0cd991967a
+  type: page
+  span:
+    start_char: 291224
+    end_char: 292271
+  part_of: bases/v0074
+  part_index: 291
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810294.tif/full/max/0/default.png
+- id: c0f028d220274686a1690f13efa19c7d
+  type: page
+  span:
+    start_char: 292276
+    end_char: 293298
+  part_of: bases/v0074
+  part_index: 292
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810295.tif/full/max/0/default.png
+- id: 96699959f921426d94c6bf40b2ea3a11
+  type: page
+  span:
+    start_char: 293303
+    end_char: 294319
+  part_of: bases/v0074
+  part_index: 293
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810296.tif/full/max/0/default.png
+- id: 8cfb112ab2c7498fa3b4a6f14542607b
+  type: page
+  span:
+    start_char: 294324
+    end_char: 295338
+  part_of: bases/v0074
+  part_index: 294
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810297.tif/full/max/0/default.png
+- id: 0f3a5b097c95453c8f4a9478f051cf67
+  type: page
+  span:
+    start_char: 295343
+    end_char: 296377
+  part_of: bases/v0074
+  part_index: 295
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810298.tif/full/max/0/default.png
+- id: 5beb59bc6a3e4f05a15883ad81d7584a
+  type: page
+  span:
+    start_char: 296382
+    end_char: 297419
+  part_of: bases/v0074
+  part_index: 296
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810299.tif/full/max/0/default.png
+- id: 05ea066fa3e54d419636303891765b29
+  type: page
+  span:
+    start_char: 297424
+    end_char: 298463
+  part_of: bases/v0074
+  part_index: 297
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810300.tif/full/max/0/default.png
+- id: 1898a130d4174547b581b383e00ce864
+  type: page
+  span:
+    start_char: 298468
+    end_char: 299457
+  part_of: bases/v0074
+  part_index: 298
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810301.tif/full/max/0/default.png
+- id: 9836a2478cbc4582a7d7cefdcacebfdb
+  type: page
+  span:
+    start_char: 299462
+    end_char: 300476
+  part_of: bases/v0074
+  part_index: 299
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810302.tif/full/max/0/default.png
+- id: 267f6bde099049a2993f80c639f75f3e
+  type: page
+  span:
+    start_char: 300481
+    end_char: 301482
+  part_of: bases/v0074
+  part_index: 300
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810303.tif/full/max/0/default.png
+- id: 49683d022be04618a42caba90525cb8e
+  type: page
+  span:
+    start_char: 301487
+    end_char: 302512
+  part_of: bases/v0074
+  part_index: 301
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810304.tif/full/max/0/default.png
+- id: 1b0e39e7ae3b42b29db7f4a6c0207752
+  type: page
+  span:
+    start_char: 302517
+    end_char: 303523
+  part_of: bases/v0074
+  part_index: 302
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810305.tif/full/max/0/default.png
+- id: 362c5fa2c9ce4a75b9b03d1898516f21
+  type: page
+  span:
+    start_char: 303528
+    end_char: 304563
+  part_of: bases/v0074
+  part_index: 303
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810306.tif/full/max/0/default.png
+- id: a085f66ca1644443aec58f255f0fa817
+  type: page
+  span:
+    start_char: 304568
+    end_char: 305601
+  part_of: bases/v0074
+  part_index: 304
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810307.tif/full/max/0/default.png
+- id: a468b6596633402b8c8bc31e8d31b4a2
+  type: page
+  span:
+    start_char: 305606
+    end_char: 306645
+  part_of: bases/v0074
+  part_index: 305
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810308.tif/full/max/0/default.png
+- id: 26c369aed64a47908d3ebfd08c989991
+  type: page
+  span:
+    start_char: 306650
+    end_char: 307641
+  part_of: bases/v0074
+  part_index: 306
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810309.tif/full/max/0/default.png
+- id: aeda957fabf8408e9cd75b8805749391
+  type: page
+  span:
+    start_char: 307646
+    end_char: 308619
+  part_of: bases/v0074
+  part_index: 307
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810310.tif/full/max/0/default.png
+- id: deb5e2ca1d6a405caf41e7c442f2f0ae
+  type: page
+  span:
+    start_char: 308624
+    end_char: 309583
+  part_of: bases/v0074
+  part_index: 308
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810311.tif/full/max/0/default.png
+- id: 5414bb917d184350829e3cb57e62beea
+  type: page
+  span:
+    start_char: 309588
+    end_char: 310540
+  part_of: bases/v0074
+  part_index: 309
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810312.tif/full/max/0/default.png
+- id: 2c5da1700923433e9332903d07a65bf7
+  type: page
+  span:
+    start_char: 310545
+    end_char: 311514
+  part_of: bases/v0074
+  part_index: 310
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810313.tif/full/max/0/default.png
+- id: 7eee843017074f18ba1a96d60c6d9bb9
+  type: page
+  span:
+    start_char: 311519
+    end_char: 312488
+  part_of: bases/v0074
+  part_index: 311
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810314.tif/full/max/0/default.png
+- id: 73242f12145f4a28bb5e687ab6a4a687
+  type: page
+  span:
+    start_char: 312493
+    end_char: 313437
+  part_of: bases/v0074
+  part_index: 312
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810315.tif/full/max/0/default.png
+- id: a84c64c4920146aa8b022020e941781e
+  type: page
+  span:
+    start_char: 313442
+    end_char: 314385
+  part_of: bases/v0074
+  part_index: 313
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810316.tif/full/max/0/default.png
+- id: b8d84683e84c407aa00987536b773cf2
+  type: page
+  span:
+    start_char: 314390
+    end_char: 315335
+  part_of: bases/v0074
+  part_index: 314
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810317.tif/full/max/0/default.png
+- id: 6393add8a7984917a32975a7ac2a6013
+  type: page
+  span:
+    start_char: 315340
+    end_char: 316325
+  part_of: bases/v0074
+  part_index: 315
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810318.tif/full/max/0/default.png
+- id: d4713ec9e7d5442c9f3ee8b3e6c69b32
+  type: page
+  span:
+    start_char: 316330
+    end_char: 317358
+  part_of: bases/v0074
+  part_index: 316
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810319.tif/full/max/0/default.png
+- id: a851e2d64646403ab82e0b3f2b44b3f7
+  type: page
+  span:
+    start_char: 317363
+    end_char: 318255
+  part_of: bases/v0074
+  part_index: 317
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810320.tif/full/max/0/default.png
+- id: df06fdfbc505443281ae877cb761e83f
+  type: page
+  span:
+    start_char: 318260
+    end_char: 319254
+  part_of: bases/v0074
+  part_index: 318
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810321.tif/full/max/0/default.png
+- id: 7e5f158df10148d89e338a0cedb14618
+  type: page
+  span:
+    start_char: 319259
+    end_char: 320286
+  part_of: bases/v0074
+  part_index: 319
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810322.tif/full/max/0/default.png
+- id: 92d3aad0dbba4b3a8a42cb6ba6e6de85
+  type: page
+  span:
+    start_char: 320291
+    end_char: 321307
+  part_of: bases/v0074
+  part_index: 320
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810323.tif/full/max/0/default.png
+- id: 726dc071e7c440128e9821e58debdbc7
+  type: page
+  span:
+    start_char: 321312
+    end_char: 322303
+  part_of: bases/v0074
+  part_index: 321
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810324.tif/full/max/0/default.png
+- id: 26d1f79e5d8947d086ad4a8ad95c6ab6
+  type: page
+  span:
+    start_char: 322308
+    end_char: 323323
+  part_of: bases/v0074
+  part_index: 322
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810325.tif/full/max/0/default.png
+- id: 2b4761de4a974b7b8105d389fc8a71ad
+  type: page
+  span:
+    start_char: 323328
+    end_char: 324300
+  part_of: bases/v0074
+  part_index: 323
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810326.tif/full/max/0/default.png
+- id: 129d98899aa64fb3aef935505c69c346
+  type: page
+  span:
+    start_char: 324305
+    end_char: 325285
+  part_of: bases/v0074
+  part_index: 324
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810327.tif/full/max/0/default.png
+- id: 4024c5270bc84e00bb17c85b6d82312f
+  type: page
+  span:
+    start_char: 325290
+    end_char: 326257
+  part_of: bases/v0074
+  part_index: 325
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810328.tif/full/max/0/default.png
+- id: 7452c051f2d24ebfacff5919ea540440
+  type: page
+  span:
+    start_char: 326262
+    end_char: 327251
+  part_of: bases/v0074
+  part_index: 326
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810329.tif/full/max/0/default.png
+- id: e20387c0149e4a959af8407700ac4bdb
+  type: page
+  span:
+    start_char: 327256
+    end_char: 328283
+  part_of: bases/v0074
+  part_index: 327
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810330.tif/full/max/0/default.png
+- id: a75eaa31f21d400187bc3cb909fd6073
+  type: page
+  span:
+    start_char: 328288
+    end_char: 329240
+  part_of: bases/v0074
+  part_index: 328
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810331.tif/full/max/0/default.png
+- id: a305bbecc5774d8db4e095712bec03e5
+  type: page
+  span:
+    start_char: 329245
+    end_char: 330242
+  part_of: bases/v0074
+  part_index: 329
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810332.tif/full/max/0/default.png
+- id: 27ae705d86714b1eb9895661d731dfd2
+  type: page
+  span:
+    start_char: 330247
+    end_char: 331198
+  part_of: bases/v0074
+  part_index: 330
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810333.tif/full/max/0/default.png
+- id: 41cb316bc3a840bf8f5f6d8fb832708b
+  type: page
+  span:
+    start_char: 331203
+    end_char: 332188
+  part_of: bases/v0074
+  part_index: 331
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810334.tif/full/max/0/default.png
+- id: 539d55eeb7da4c56bc6de09509815468
+  type: page
+  span:
+    start_char: 332193
+    end_char: 333119
+  part_of: bases/v0074
+  part_index: 332
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810335.tif/full/max/0/default.png
+- id: 03f8bb41e96f4a048494a1e868cba2b3
+  type: page
+  span:
+    start_char: 333124
+    end_char: 334084
+  part_of: bases/v0074
+  part_index: 333
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810336.tif/full/max/0/default.png
+- id: 316cbe610550425ba415866f8ee34c99
+  type: page
+  span:
+    start_char: 334089
+    end_char: 335051
+  part_of: bases/v0074
+  part_index: 334
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810337.tif/full/max/0/default.png
+- id: b304050cc1c848508340aabdd4d2582c
+  type: page
+  span:
+    start_char: 335056
+    end_char: 336061
+  part_of: bases/v0074
+  part_index: 335
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810338.tif/full/max/0/default.png
+- id: de0d26bfa7914fab82e7b6307702154c
+  type: page
+  span:
+    start_char: 336066
+    end_char: 337059
+  part_of: bases/v0074
+  part_index: 336
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810339.tif/full/max/0/default.png
+- id: 0ba7496791bf4d3cbcd5af466bc5c998
+  type: page
+  span:
+    start_char: 337064
+    end_char: 338028
+  part_of: bases/v0074
+  part_index: 337
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810340.tif/full/max/0/default.png
+- id: 15d48f2d177f40b7afc48683da0cf7a9
+  type: page
+  span:
+    start_char: 338033
+    end_char: 339001
+  part_of: bases/v0074
+  part_index: 338
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810341.tif/full/max/0/default.png
+- id: c56ca6d354d44f21b0cd507940db3db3
+  type: page
+  span:
+    start_char: 339006
+    end_char: 339962
+  part_of: bases/v0074
+  part_index: 339
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810342.tif/full/max/0/default.png
+- id: 14824e3ad4994d9e8f58c78ad1e124be
+  type: page
+  span:
+    start_char: 339967
+    end_char: 340973
+  part_of: bases/v0074
+  part_index: 340
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810343.tif/full/max/0/default.png
+- id: 2d172946957045fead4d4e09fa5d0ad1
+  type: page
+  span:
+    start_char: 340978
+    end_char: 341957
+  part_of: bases/v0074
+  part_index: 341
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810344.tif/full/max/0/default.png
+- id: ba2361c819da4cb0be9a81b761881b77
+  type: page
+  span:
+    start_char: 341962
+    end_char: 342951
+  part_of: bases/v0074
+  part_index: 342
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810345.tif/full/max/0/default.png
+- id: 8f19e1b25bdb4488b9fca37ce7d32921
+  type: page
+  span:
+    start_char: 342956
+    end_char: 343955
+  part_of: bases/v0074
+  part_index: 343
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810346.tif/full/max/0/default.png
+- id: 039f6e7c1b7d4e97bdb39cae5adde72c
+  type: page
+  span:
+    start_char: 343960
+    end_char: 344950
+  part_of: bases/v0074
+  part_index: 344
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810347.tif/full/max/0/default.png
+- id: 93b0d0b4d6a3404faa6a8efe7908bccb
+  type: page
+  span:
+    start_char: 344955
+    end_char: 345980
+  part_of: bases/v0074
+  part_index: 345
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810348.tif/full/max/0/default.png
+- id: ca94859b6434439786b38f2547d31aaa
+  type: page
+  span:
+    start_char: 345985
+    end_char: 346979
+  part_of: bases/v0074
+  part_index: 346
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810349.tif/full/max/0/default.png
+- id: 33a14392ac1b4af6900bb60d4ba783a5
+  type: page
+  span:
+    start_char: 346984
+    end_char: 348014
+  part_of: bases/v0074
+  part_index: 347
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810350.tif/full/max/0/default.png
+- id: 660e1da576bf44abbc5c8a7afed06605
+  type: page
+  span:
+    start_char: 348019
+    end_char: 348999
+  part_of: bases/v0074
+  part_index: 348
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810351.tif/full/max/0/default.png
+- id: ac0bde169b3649ef9612ceedb06c38f1
+  type: page
+  span:
+    start_char: 349004
+    end_char: 349886
+  part_of: bases/v0074
+  part_index: 349
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810352.tif/full/max/0/default.png
+- id: ee53d9db83474f3c84372531d1facb80
+  type: page
+  span:
+    start_char: 349891
+    end_char: 350926
+  part_of: bases/v0074
+  part_index: 350
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810353.tif/full/max/0/default.png
+- id: 0a523c3b449f4aab8a54c9068c491a8d
+  type: page
+  span:
+    start_char: 350931
+    end_char: 351938
+  part_of: bases/v0074
+  part_index: 351
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810354.tif/full/max/0/default.png
+- id: ba8150903a4643dda0bab0eee7419c6b
+  type: page
+  span:
+    start_char: 351943
+    end_char: 352979
+  part_of: bases/v0074
+  part_index: 352
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810355.tif/full/max/0/default.png
+- id: 6e51873ca3f44d36b86a502ecf842f1c
+  type: page
+  span:
+    start_char: 352984
+    end_char: 354000
+  part_of: bases/v0074
+  part_index: 353
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810356.tif/full/max/0/default.png
+- id: 4f40d076040e4964b81ad1cfe884cce5
+  type: page
+  span:
+    start_char: 354005
+    end_char: 355074
+  part_of: bases/v0074
+  part_index: 354
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810357.tif/full/max/0/default.png
+- id: 6b9884d0fe93466fbd6d55dd500ddb3f
+  type: page
+  span:
+    start_char: 355079
+    end_char: 356126
+  part_of: bases/v0074
+  part_index: 355
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810358.tif/full/max/0/default.png
+- id: 8e98f1af430e493da83316ed2e362ccb
+  type: page
+  span:
+    start_char: 356131
+    end_char: 357242
+  part_of: bases/v0074
+  part_index: 356
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810359.tif/full/max/0/default.png
+- id: adcd1aec76994d9385bb626b8c0341e2
+  type: page
+  span:
+    start_char: 357247
+    end_char: 358204
+  part_of: bases/v0074
+  part_index: 357
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810360.tif/full/max/0/default.png
+- id: 00ce2c6d53994462aa33b3a1f956ce25
+  type: page
+  span:
+    start_char: 358209
+    end_char: 359175
+  part_of: bases/v0074
+  part_index: 358
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810361.tif/full/max/0/default.png
+- id: 58f502bedb2746a981f8502c53ebaa44
+  type: page
+  span:
+    start_char: 359180
+    end_char: 360168
+  part_of: bases/v0074
+  part_index: 359
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810362.tif/full/max/0/default.png
+- id: bcb58fc661654ef6afee0f6615a242f5
+  type: page
+  span:
+    start_char: 360173
+    end_char: 361204
+  part_of: bases/v0074
+  part_index: 360
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810363.tif/full/max/0/default.png
+- id: 536b1ad13ed94d22adcc05dba781d518
+  type: page
+  span:
+    start_char: 361209
+    end_char: 362151
+  part_of: bases/v0074
+  part_index: 361
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810364.tif/full/max/0/default.png
+- id: 717d2a018dfd433d8b80f965ce430915
+  type: page
+  span:
+    start_char: 362156
+    end_char: 363401
+  part_of: bases/v0074
+  part_index: 362
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810365.tif/full/max/0/default.png
+- id: 99877983212c4fdf8c2c249dc3e0e3af
+  type: page
+  span:
+    start_char: 363406
+    end_char: 364602
+  part_of: bases/v0074
+  part_index: 363
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810366.tif/full/max/0/default.png
+- id: 568a2aa8000d48d1a75d9680e2728275
+  type: page
+  span:
+    start_char: 364607
+    end_char: 365744
+  part_of: bases/v0074
+  part_index: 364
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810367.tif/full/max/0/default.png
+- id: b9edc41a8a36462ea954d3d4d70f7b10
+  type: page
+  span:
+    start_char: 365749
+    end_char: 366894
+  part_of: bases/v0074
+  part_index: 365
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810368.tif/full/max/0/default.png
+- id: 9cc3ec82db11445ea03ede494112e7b2
+  type: page
+  span:
+    start_char: 366899
+    end_char: 368019
+  part_of: bases/v0074
+  part_index: 366
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810369.tif/full/max/0/default.png
+- id: f9c856c37cfb41c2ad19b8394051464c
+  type: page
+  span:
+    start_char: 368024
+    end_char: 369126
+  part_of: bases/v0074
+  part_index: 367
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810370.tif/full/max/0/default.png
+- id: fa51bd5b363a4515b3c2d011427d4249
+  type: page
+  span:
+    start_char: 369131
+    end_char: 370250
+  part_of: bases/v0074
+  part_index: 368
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810371.tif/full/max/0/default.png
+- id: 13dc8a2e52bf4c7085227436fba6fb2a
+  type: page
+  span:
+    start_char: 370255
+    end_char: 371377
+  part_of: bases/v0074
+  part_index: 369
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810372.tif/full/max/0/default.png
+- id: 9bbe0649ad3f4b9e996c51e97d226c24
+  type: page
+  span:
+    start_char: 371382
+    end_char: 372476
+  part_of: bases/v0074
+  part_index: 370
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810373.tif/full/max/0/default.png
+- id: 537481a653bb432c8ef5e7ae4c8d3182
+  type: page
+  span:
+    start_char: 372481
+    end_char: 373557
+  part_of: bases/v0074
+  part_index: 371
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810374.tif/full/max/0/default.png
+- id: 05d0eeea6ba444ef883de5b042553457
+  type: page
+  span:
+    start_char: 373562
+    end_char: 374696
+  part_of: bases/v0074
+  part_index: 372
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810375.tif/full/max/0/default.png
+- id: 4c1f38b9ed3649379bf3e3307f26ff08
+  type: page
+  span:
+    start_char: 374701
+    end_char: 375816
+  part_of: bases/v0074
+  part_index: 373
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810376.tif/full/max/0/default.png
+- id: e88b876216374aeeb3b01e1b036a407a
+  type: page
+  span:
+    start_char: 375821
+    end_char: 376907
+  part_of: bases/v0074
+  part_index: 374
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3781::37810377.tif/full/max/0/default.png
+- id: 470d430cd4fa44218392e768d93e0102
+  type: page
+  span:
+    start_char: 0
+    end_char: 594
+  part_of: bases/v0075
+  part_index: 1
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820001.tif/full/max/0/default.png
+- id: 5d5c5049466e4adaa78ca917d54f0db2
+  type: page
+  span:
+    start_char: 599
+    end_char: 2098
+  part_of: bases/v0075
+  part_index: 2
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820002.tif/full/max/0/default.png
+- id: 7f536bb6d13a45fc8ca95a34df11d28c
+  type: page
+  span:
+    start_char: 2103
+    end_char: 2168
+  part_of: bases/v0075
+  part_index: 3
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820003.tif/full/max/0/default.png
+- id: 2e04ce9e843a4bac8e367e615f1e5e03
+  type: page
+  span:
+    start_char: 2173
+    end_char: 2355
+  part_of: bases/v0075
+  part_index: 4
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820005.tif/full/max/0/default.png
+- id: 31b83b65f1f44c4187f9132b2bbf1e46
+  type: page
+  span:
+    start_char: 2360
+    end_char: 2779
+  part_of: bases/v0075
+  part_index: 5
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820007.tif/full/max/0/default.png
+- id: 6e60b74fb7204ce2a77475f66aa282e0
+  type: page
+  span:
+    start_char: 2784
+    end_char: 3134
+  part_of: bases/v0075
+  part_index: 6
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820008.tif/full/max/0/default.png
+- id: f924bfdf819345b88e0cc489fcadb500
+  type: page
+  span:
+    start_char: 3139
+    end_char: 3299
+  part_of: bases/v0075
+  part_index: 7
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820009.tif/full/max/0/default.png
+- id: b6d8a8390b104854b5231be5439a9474
+  type: page
+  span:
+    start_char: 3304
+    end_char: 3317
+  part_of: bases/v0075
+  part_index: 8
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820011.tif/full/max/0/default.png
+- id: 4158afb1989c4b79aaabb672c988cadb
+  type: page
+  span:
+    start_char: 3322
+    end_char: 3484
+  part_of: bases/v0075
+  part_index: 9
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820012.tif/full/max/0/default.png
+- id: 3055bb7920f4435ca55ed30a4474e954
+  type: page
+  span:
+    start_char: 3489
+    end_char: 3789
+  part_of: bases/v0075
+  part_index: 10
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820013.tif/full/max/0/default.png
+- id: 314f2648fc6747ee9324abc52d80d8b5
+  type: page
+  span:
+    start_char: 3794
+    end_char: 4308
+  part_of: bases/v0075
+  part_index: 11
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820014.tif/full/max/0/default.png
+- id: 610604465fde4a98bf4164c6449c11a7
+  type: page
+  span:
+    start_char: 4313
+    end_char: 5074
+  part_of: bases/v0075
+  part_index: 12
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820015.tif/full/max/0/default.png
+- id: 7ad814289bf44bbfaf1aafe0d6f6ca86
+  type: page
+  span:
+    start_char: 5079
+    end_char: 6226
+  part_of: bases/v0075
+  part_index: 13
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820016.tif/full/max/0/default.png
+- id: bf46f62f1afb4feb81897fd64c4ae02b
+  type: page
+  span:
+    start_char: 6231
+    end_char: 7275
+  part_of: bases/v0075
+  part_index: 14
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820017.tif/full/max/0/default.png
+- id: f7ce56c248fc4deb9def5cbbfc2f1c5b
+  type: page
+  span:
+    start_char: 7280
+    end_char: 8345
+  part_of: bases/v0075
+  part_index: 15
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820018.tif/full/max/0/default.png
+- id: 6debb6a67e5045d0baffb5c12b5e67c0
+  type: page
+  span:
+    start_char: 8350
+    end_char: 9449
+  part_of: bases/v0075
+  part_index: 16
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820019.tif/full/max/0/default.png
+- id: b64e848d20874d0583636f07c99d3e9b
+  type: page
+  span:
+    start_char: 9454
+    end_char: 10547
+  part_of: bases/v0075
+  part_index: 17
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820020.tif/full/max/0/default.png
+- id: da44d454553648aa97b5678624fe2e87
+  type: page
+  span:
+    start_char: 10552
+    end_char: 11648
+  part_of: bases/v0075
+  part_index: 18
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820021.tif/full/max/0/default.png
+- id: a3520e6064b14809b14ecce2011c5e66
+  type: page
+  span:
+    start_char: 11653
+    end_char: 12691
+  part_of: bases/v0075
+  part_index: 19
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820022.tif/full/max/0/default.png
+- id: b017af5967284ee4bfbfe483a67140c9
+  type: page
+  span:
+    start_char: 12696
+    end_char: 13706
+  part_of: bases/v0075
+  part_index: 20
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820023.tif/full/max/0/default.png
+- id: f08053a6fa95447cbda4d3e8c63a368f
+  type: page
+  span:
+    start_char: 13711
+    end_char: 14717
+  part_of: bases/v0075
+  part_index: 21
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820024.tif/full/max/0/default.png
+- id: ed95adf8feac4701ba1f6ee2921c9016
+  type: page
+  span:
+    start_char: 14722
+    end_char: 15731
+  part_of: bases/v0075
+  part_index: 22
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820025.tif/full/max/0/default.png
+- id: 0b1f838648a84d9aa54f459551469d0f
+  type: page
+  span:
+    start_char: 15736
+    end_char: 16742
+  part_of: bases/v0075
+  part_index: 23
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820026.tif/full/max/0/default.png
+- id: bf2d00901cca45d9842ac58d7c348d56
+  type: page
+  span:
+    start_char: 16747
+    end_char: 17769
+  part_of: bases/v0075
+  part_index: 24
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820027.tif/full/max/0/default.png
+- id: b35ecd7f130749ed9ed99a2665abc3f6
+  type: page
+  span:
+    start_char: 17774
+    end_char: 18795
+  part_of: bases/v0075
+  part_index: 25
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820028.tif/full/max/0/default.png
+- id: 9a2300aef49a4208bbff4d856d37201e
+  type: page
+  span:
+    start_char: 18800
+    end_char: 19808
+  part_of: bases/v0075
+  part_index: 26
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820029.tif/full/max/0/default.png
+- id: 6201655418864700bb326aae5662c0f3
+  type: page
+  span:
+    start_char: 19813
+    end_char: 20769
+  part_of: bases/v0075
+  part_index: 27
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820030.tif/full/max/0/default.png
+- id: 00fc5b91df584a4880263aeb92534844
+  type: page
+  span:
+    start_char: 20774
+    end_char: 21774
+  part_of: bases/v0075
+  part_index: 28
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820031.tif/full/max/0/default.png
+- id: caf10af6ae054e7681ac38b53dfe456d
+  type: page
+  span:
+    start_char: 21779
+    end_char: 22840
+  part_of: bases/v0075
+  part_index: 29
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820032.tif/full/max/0/default.png
+- id: 11a432311f0f4a69b6ca73afe949bec3
+  type: page
+  span:
+    start_char: 22845
+    end_char: 23877
+  part_of: bases/v0075
+  part_index: 30
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820033.tif/full/max/0/default.png
+- id: e337e58551e846b9a42520007235db34
+  type: page
+  span:
+    start_char: 23882
+    end_char: 24884
+  part_of: bases/v0075
+  part_index: 31
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820034.tif/full/max/0/default.png
+- id: 95e57368e56549ccb13f2e5f11101278
+  type: page
+  span:
+    start_char: 24889
+    end_char: 25892
+  part_of: bases/v0075
+  part_index: 32
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820035.tif/full/max/0/default.png
+- id: 00dcbfaa3b5b483896e332848c0c43bf
+  type: page
+  span:
+    start_char: 25897
+    end_char: 26939
+  part_of: bases/v0075
+  part_index: 33
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820036.tif/full/max/0/default.png
+- id: 144c38c59ed540dc920a2b232dd77ceb
+  type: page
+  span:
+    start_char: 26944
+    end_char: 27995
+  part_of: bases/v0075
+  part_index: 34
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820037.tif/full/max/0/default.png
+- id: a87f6a6a79d04ff2a537ecf17e472ab4
+  type: page
+  span:
+    start_char: 28000
+    end_char: 29046
+  part_of: bases/v0075
+  part_index: 35
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820038.tif/full/max/0/default.png
+- id: e434dc468f2842b786df615b5ecd06da
+  type: page
+  span:
+    start_char: 29051
+    end_char: 30119
+  part_of: bases/v0075
+  part_index: 36
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820039.tif/full/max/0/default.png
+- id: 21af73a1bf334e89957f3b24a61db545
+  type: page
+  span:
+    start_char: 30124
+    end_char: 31153
+  part_of: bases/v0075
+  part_index: 37
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820040.tif/full/max/0/default.png
+- id: 552474a858514995a558acb49f776f91
+  type: page
+  span:
+    start_char: 31158
+    end_char: 32202
+  part_of: bases/v0075
+  part_index: 38
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820041.tif/full/max/0/default.png
+- id: 9ec29ca44fb14482b3efc76d61b6fb8d
+  type: page
+  span:
+    start_char: 32207
+    end_char: 33258
+  part_of: bases/v0075
+  part_index: 39
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820042.tif/full/max/0/default.png
+- id: a7772acf9cb046f1a0ac2a7f7a1df2a8
+  type: page
+  span:
+    start_char: 33263
+    end_char: 34336
+  part_of: bases/v0075
+  part_index: 40
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820043.tif/full/max/0/default.png
+- id: e83f613d56814d059d3de876112e75fa
+  type: page
+  span:
+    start_char: 34341
+    end_char: 35385
+  part_of: bases/v0075
+  part_index: 41
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820044.tif/full/max/0/default.png
+- id: 0f1d589c6cb24fe69a3b7411a34c8fa1
+  type: page
+  span:
+    start_char: 35390
+    end_char: 36448
+  part_of: bases/v0075
+  part_index: 42
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820045.tif/full/max/0/default.png
+- id: 6c6693e2b2fe46be99c88f8eccc5b974
+  type: page
+  span:
+    start_char: 36453
+    end_char: 37540
+  part_of: bases/v0075
+  part_index: 43
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820046.tif/full/max/0/default.png
+- id: 17d626ec5fa04b2f83211e4567f9c509
+  type: page
+  span:
+    start_char: 37545
+    end_char: 38648
+  part_of: bases/v0075
+  part_index: 44
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820047.tif/full/max/0/default.png
+- id: dd4391fe658843dab8f520315be391c2
+  type: page
+  span:
+    start_char: 38653
+    end_char: 39735
+  part_of: bases/v0075
+  part_index: 45
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820048.tif/full/max/0/default.png
+- id: e9da5161efdf43fe9b7718b4363e3872
+  type: page
+  span:
+    start_char: 39740
+    end_char: 40825
+  part_of: bases/v0075
+  part_index: 46
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820049.tif/full/max/0/default.png
+- id: ef826c54a02844e58a68e3e5d0533297
+  type: page
+  span:
+    start_char: 40830
+    end_char: 41890
+  part_of: bases/v0075
+  part_index: 47
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820050.tif/full/max/0/default.png
+- id: 0ee684d8dcc4420684722f8510c2e34e
+  type: page
+  span:
+    start_char: 41895
+    end_char: 43002
+  part_of: bases/v0075
+  part_index: 48
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820051.tif/full/max/0/default.png
+- id: d49da8bade31425d9087f0831242c7d3
+  type: page
+  span:
+    start_char: 43007
+    end_char: 44096
+  part_of: bases/v0075
+  part_index: 49
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820052.tif/full/max/0/default.png
+- id: c6a5c6c01b86499885398fb4395e0408
+  type: page
+  span:
+    start_char: 44101
+    end_char: 45163
+  part_of: bases/v0075
+  part_index: 50
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820053.tif/full/max/0/default.png
+- id: 95c88d4571df48d98f81c9e454a8d309
+  type: page
+  span:
+    start_char: 45168
+    end_char: 46226
+  part_of: bases/v0075
+  part_index: 51
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820054.tif/full/max/0/default.png
+- id: 11f9378a1cb74f288f9c6e2be658e0a8
+  type: page
+  span:
+    start_char: 46231
+    end_char: 47309
+  part_of: bases/v0075
+  part_index: 52
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820055.tif/full/max/0/default.png
+- id: c24bf7214e67417a8b4f62aa411aed73
+  type: page
+  span:
+    start_char: 47314
+    end_char: 48378
+  part_of: bases/v0075
+  part_index: 53
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820056.tif/full/max/0/default.png
+- id: 327111f1e0da4da182a2ca1b0c1224b4
+  type: page
+  span:
+    start_char: 48383
+    end_char: 49443
+  part_of: bases/v0075
+  part_index: 54
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820057.tif/full/max/0/default.png
+- id: 13b4562ec5ea4d15973161fa7fc8bc20
+  type: page
+  span:
+    start_char: 49448
+    end_char: 50543
+  part_of: bases/v0075
+  part_index: 55
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820058.tif/full/max/0/default.png
+- id: 8295cc5eaaa741ed989735ea2f6fcb6b
+  type: page
+  span:
+    start_char: 50548
+    end_char: 51591
+  part_of: bases/v0075
+  part_index: 56
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820059.tif/full/max/0/default.png
+- id: a4e1c004525840a0999f2f4027ce042c
+  type: page
+  span:
+    start_char: 51596
+    end_char: 52671
+  part_of: bases/v0075
+  part_index: 57
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820060.tif/full/max/0/default.png
+- id: 7ce0a84cd3444d6ab785a488db054f87
+  type: page
+  span:
+    start_char: 52676
+    end_char: 53743
+  part_of: bases/v0075
+  part_index: 58
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820061.tif/full/max/0/default.png
+- id: 0273801dd2d84d9c97352806cefb3ea2
+  type: page
+  span:
+    start_char: 53748
+    end_char: 54818
+  part_of: bases/v0075
+  part_index: 59
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820062.tif/full/max/0/default.png
+- id: 95abca917eaf47fe9519576c4cff3c28
+  type: page
+  span:
+    start_char: 54823
+    end_char: 55879
+  part_of: bases/v0075
+  part_index: 60
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820063.tif/full/max/0/default.png
+- id: f114e122fd2040d2ab21323470734b77
+  type: page
+  span:
+    start_char: 55884
+    end_char: 56872
+  part_of: bases/v0075
+  part_index: 61
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820064.tif/full/max/0/default.png
+- id: e006854e805b4c25b1a5bfa66cda1166
+  type: page
+  span:
+    start_char: 56877
+    end_char: 57935
+  part_of: bases/v0075
+  part_index: 62
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820065.tif/full/max/0/default.png
+- id: 80e31fc9baeb461da27a2cebc7c31ab6
+  type: page
+  span:
+    start_char: 57940
+    end_char: 59007
+  part_of: bases/v0075
+  part_index: 63
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820066.tif/full/max/0/default.png
+- id: 24c70b9137b943dfa394444e5fd7ddb8
+  type: page
+  span:
+    start_char: 59012
+    end_char: 60099
+  part_of: bases/v0075
+  part_index: 64
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820067.tif/full/max/0/default.png
+- id: 9e5c303f380843d383f5074b60b24e19
+  type: page
+  span:
+    start_char: 60104
+    end_char: 61205
+  part_of: bases/v0075
+  part_index: 65
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820068.tif/full/max/0/default.png
+- id: 4e6ccbadf8c84d748926e13cf297d65e
+  type: page
+  span:
+    start_char: 61210
+    end_char: 62269
+  part_of: bases/v0075
+  part_index: 66
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820069.tif/full/max/0/default.png
+- id: b1012333947f46fcabd0f238835c7010
+  type: page
+  span:
+    start_char: 62274
+    end_char: 63371
+  part_of: bases/v0075
+  part_index: 67
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820070.tif/full/max/0/default.png
+- id: 374821e65e2a47918002a2c362add5e5
+  type: page
+  span:
+    start_char: 63376
+    end_char: 64407
+  part_of: bases/v0075
+  part_index: 68
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820071.tif/full/max/0/default.png
+- id: 17eded5702e34bc29eb810f5cb6a351c
+  type: page
+  span:
+    start_char: 64412
+    end_char: 65497
+  part_of: bases/v0075
+  part_index: 69
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820072.tif/full/max/0/default.png
+- id: aa941436bf154dec9f29c5fd55f3aec2
+  type: page
+  span:
+    start_char: 65502
+    end_char: 66545
+  part_of: bases/v0075
+  part_index: 70
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820073.tif/full/max/0/default.png
+- id: 15d0b340a4604d36854e308df1301bf9
+  type: page
+  span:
+    start_char: 66550
+    end_char: 67596
+  part_of: bases/v0075
+  part_index: 71
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820074.tif/full/max/0/default.png
+- id: c25cbb270ac04891a5a5e78bc335c330
+  type: page
+  span:
+    start_char: 67601
+    end_char: 68614
+  part_of: bases/v0075
+  part_index: 72
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820075.tif/full/max/0/default.png
+- id: 7ae4774a66194c92be00af89885976df
+  type: page
+  span:
+    start_char: 68619
+    end_char: 69627
+  part_of: bases/v0075
+  part_index: 73
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820076.tif/full/max/0/default.png
+- id: 2cb3b83f64d6456d87f750d8c1c06570
+  type: page
+  span:
+    start_char: 69632
+    end_char: 70609
+  part_of: bases/v0075
+  part_index: 74
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820077.tif/full/max/0/default.png
+- id: 18ca585595b744ab976d2c6c7184430a
+  type: page
+  span:
+    start_char: 70614
+    end_char: 71575
+  part_of: bases/v0075
+  part_index: 75
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820078.tif/full/max/0/default.png
+- id: 840617f05a18471297248da0b05ac769
+  type: page
+  span:
+    start_char: 71580
+    end_char: 72584
+  part_of: bases/v0075
+  part_index: 76
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820079.tif/full/max/0/default.png
+- id: 2d1ef2e958a64e4b906e136243c82e0a
+  type: page
+  span:
+    start_char: 72589
+    end_char: 73593
+  part_of: bases/v0075
+  part_index: 77
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820080.tif/full/max/0/default.png
+- id: 0f1b9a5f3bfd40bfbb890062a084605a
+  type: page
+  span:
+    start_char: 73598
+    end_char: 74596
+  part_of: bases/v0075
+  part_index: 78
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820081.tif/full/max/0/default.png
+- id: 9024ab49611b4d0c8b67ff182b2cefaa
+  type: page
+  span:
+    start_char: 74601
+    end_char: 75662
+  part_of: bases/v0075
+  part_index: 79
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820082.tif/full/max/0/default.png
+- id: 66f18d1ffeea46b58c44ccbf34d5ba50
+  type: page
+  span:
+    start_char: 75667
+    end_char: 76689
+  part_of: bases/v0075
+  part_index: 80
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820083.tif/full/max/0/default.png
+- id: ae8401a8123f4638a64c7cd81aa86212
+  type: page
+  span:
+    start_char: 76694
+    end_char: 77739
+  part_of: bases/v0075
+  part_index: 81
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820084.tif/full/max/0/default.png
+- id: 62d0642c49aa4c519e901d177bb19b00
+  type: page
+  span:
+    start_char: 77744
+    end_char: 78769
+  part_of: bases/v0075
+  part_index: 82
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820085.tif/full/max/0/default.png
+- id: 81cf9d9bf1424034a50e0724109e7913
+  type: page
+  span:
+    start_char: 78774
+    end_char: 79828
+  part_of: bases/v0075
+  part_index: 83
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820086.tif/full/max/0/default.png
+- id: 820813251bb544a4aaec053e6da9fab4
+  type: page
+  span:
+    start_char: 79833
+    end_char: 80882
+  part_of: bases/v0075
+  part_index: 84
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820087.tif/full/max/0/default.png
+- id: 7b205335829e4a698997d3d8b5b87007
+  type: page
+  span:
+    start_char: 80887
+    end_char: 81922
+  part_of: bases/v0075
+  part_index: 85
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820088.tif/full/max/0/default.png
+- id: dfcaeed51c0d43debe6bf1788d903f54
+  type: page
+  span:
+    start_char: 81927
+    end_char: 83011
+  part_of: bases/v0075
+  part_index: 86
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820089.tif/full/max/0/default.png
+- id: c4127018dfb145009b8965d24ed41598
+  type: page
+  span:
+    start_char: 83016
+    end_char: 84028
+  part_of: bases/v0075
+  part_index: 87
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820090.tif/full/max/0/default.png
+- id: 0939324cbc52489c982276bc0dcf4a53
+  type: page
+  span:
+    start_char: 84033
+    end_char: 85065
+  part_of: bases/v0075
+  part_index: 88
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820091.tif/full/max/0/default.png
+- id: 45cd87edd86e4f86b8fbef90c6895c52
+  type: page
+  span:
+    start_char: 85070
+    end_char: 86150
+  part_of: bases/v0075
+  part_index: 89
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820092.tif/full/max/0/default.png
+- id: 8aa3ef214167455b99dd0d1acb51123f
+  type: page
+  span:
+    start_char: 86155
+    end_char: 87255
+  part_of: bases/v0075
+  part_index: 90
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820093.tif/full/max/0/default.png
+- id: a093f6e5495d46c98c39168423806388
+  type: page
+  span:
+    start_char: 87260
+    end_char: 88363
+  part_of: bases/v0075
+  part_index: 91
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820094.tif/full/max/0/default.png
+- id: e5760c967de6484fa1e2abd9a486c53b
+  type: page
+  span:
+    start_char: 88368
+    end_char: 89443
+  part_of: bases/v0075
+  part_index: 92
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820095.tif/full/max/0/default.png
+- id: 35f9dc21d3fd44579dfc1ed952e277be
+  type: page
+  span:
+    start_char: 89448
+    end_char: 90529
+  part_of: bases/v0075
+  part_index: 93
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820096.tif/full/max/0/default.png
+- id: b6ccec01ee5440598b6e1ebeea00aa9c
+  type: page
+  span:
+    start_char: 90534
+    end_char: 91601
+  part_of: bases/v0075
+  part_index: 94
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820097.tif/full/max/0/default.png
+- id: 9a2eeb671dc84864b4e784abff9ee5f1
+  type: page
+  span:
+    start_char: 91606
+    end_char: 92693
+  part_of: bases/v0075
+  part_index: 95
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820098.tif/full/max/0/default.png
+- id: d5f40e31400e4ba9b3e1c0bb4862110b
+  type: page
+  span:
+    start_char: 92698
+    end_char: 93849
+  part_of: bases/v0075
+  part_index: 96
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820099.tif/full/max/0/default.png
+- id: aa742b349d094ac08ba5155c8817ccd3
+  type: page
+  span:
+    start_char: 93854
+    end_char: 95009
+  part_of: bases/v0075
+  part_index: 97
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820100.tif/full/max/0/default.png
+- id: 8b2102e65c8747b7a50b7ea0e1ef3808
+  type: page
+  span:
+    start_char: 95014
+    end_char: 96122
+  part_of: bases/v0075
+  part_index: 98
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820101.tif/full/max/0/default.png
+- id: f6c5f60e8cf84803972ca3e2a3fab576
+  type: page
+  span:
+    start_char: 96127
+    end_char: 97246
+  part_of: bases/v0075
+  part_index: 99
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820102.tif/full/max/0/default.png
+- id: ff88bc2793e94bdabf2692137c54b493
+  type: page
+  span:
+    start_char: 97251
+    end_char: 98346
+  part_of: bases/v0075
+  part_index: 100
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820103.tif/full/max/0/default.png
+- id: 3b3b75d227aa4cb192e00da35e1bf151
+  type: page
+  span:
+    start_char: 98351
+    end_char: 99465
+  part_of: bases/v0075
+  part_index: 101
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820104.tif/full/max/0/default.png
+- id: 4a30f621d6384961adcd2401d40c750f
+  type: page
+  span:
+    start_char: 99470
+    end_char: 100573
+  part_of: bases/v0075
+  part_index: 102
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820105.tif/full/max/0/default.png
+- id: 6b8bfcf6344b4bab8b20a6dd100577be
+  type: page
+  span:
+    start_char: 100578
+    end_char: 101720
+  part_of: bases/v0075
+  part_index: 103
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820106.tif/full/max/0/default.png
+- id: 723fa98875914b9c875eb281d1b75750
+  type: page
+  span:
+    start_char: 101725
+    end_char: 102743
+  part_of: bases/v0075
+  part_index: 104
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820107.tif/full/max/0/default.png
+- id: 6bd3f1f429bb4501920e795b0db6b43b
+  type: page
+  span:
+    start_char: 102748
+    end_char: 103752
+  part_of: bases/v0075
+  part_index: 105
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820108.tif/full/max/0/default.png
+- id: 85d9cd4a6e3d439b92378b1e564f3289
+  type: page
+  span:
+    start_char: 103757
+    end_char: 104849
+  part_of: bases/v0075
+  part_index: 106
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820109.tif/full/max/0/default.png
+- id: d0a4d05cea0946e7ac4d09908c7f3b9d
+  type: page
+  span:
+    start_char: 104854
+    end_char: 105906
+  part_of: bases/v0075
+  part_index: 107
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820110.tif/full/max/0/default.png
+- id: c689ba0c9ff54d7ab784ff8778a361f5
+  type: page
+  span:
+    start_char: 105911
+    end_char: 106989
+  part_of: bases/v0075
+  part_index: 108
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820111.tif/full/max/0/default.png
+- id: 8c30743de53243459e2d758b817a5ca5
+  type: page
+  span:
+    start_char: 106994
+    end_char: 108079
+  part_of: bases/v0075
+  part_index: 109
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820112.tif/full/max/0/default.png
+- id: 216ae723327d4e7d9e9ba0312fe97de9
+  type: page
+  span:
+    start_char: 108084
+    end_char: 109147
+  part_of: bases/v0075
+  part_index: 110
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820113.tif/full/max/0/default.png
+- id: bf3b6cb10dff49eeb33d434e07b45b88
+  type: page
+  span:
+    start_char: 109152
+    end_char: 110236
+  part_of: bases/v0075
+  part_index: 111
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820114.tif/full/max/0/default.png
+- id: 326a53d75d2e49789cc7ce60735579ea
+  type: page
+  span:
+    start_char: 110241
+    end_char: 111377
+  part_of: bases/v0075
+  part_index: 112
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820115.tif/full/max/0/default.png
+- id: e981baccb8514ecdba2f270d34528cd3
+  type: page
+  span:
+    start_char: 111382
+    end_char: 112469
+  part_of: bases/v0075
+  part_index: 113
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820116.tif/full/max/0/default.png
+- id: c176c7929ccd46ba93d5845f80ecf201
+  type: page
+  span:
+    start_char: 112474
+    end_char: 113533
+  part_of: bases/v0075
+  part_index: 114
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820117.tif/full/max/0/default.png
+- id: e8e493d308de4678ae8b9a44b23cf819
+  type: page
+  span:
+    start_char: 113538
+    end_char: 114591
+  part_of: bases/v0075
+  part_index: 115
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820118.tif/full/max/0/default.png
+- id: cadbb39a70d64ceb9702556c3f89b2b4
+  type: page
+  span:
+    start_char: 114596
+    end_char: 115599
+  part_of: bases/v0075
+  part_index: 116
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820119.tif/full/max/0/default.png
+- id: e4402a4524c14a96a72ba27d0e4183fe
+  type: page
+  span:
+    start_char: 115604
+    end_char: 116590
+  part_of: bases/v0075
+  part_index: 117
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820120.tif/full/max/0/default.png
+- id: edc297f0041d4973b13fca14b008fef7
+  type: page
+  span:
+    start_char: 116595
+    end_char: 117624
+  part_of: bases/v0075
+  part_index: 118
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820121.tif/full/max/0/default.png
+- id: b5b82041c8aa4f828debff4439767574
+  type: page
+  span:
+    start_char: 117629
+    end_char: 118752
+  part_of: bases/v0075
+  part_index: 119
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820122.tif/full/max/0/default.png
+- id: 7558bb73b467445d90253f2c722401e7
+  type: page
+  span:
+    start_char: 118757
+    end_char: 119873
+  part_of: bases/v0075
+  part_index: 120
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820123.tif/full/max/0/default.png
+- id: c75b3cb64307490085710f5d56ff5903
+  type: page
+  span:
+    start_char: 119878
+    end_char: 121045
+  part_of: bases/v0075
+  part_index: 121
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820124.tif/full/max/0/default.png
+- id: 40d84f256a344cc980811ce45e67ac64
+  type: page
+  span:
+    start_char: 121050
+    end_char: 122226
+  part_of: bases/v0075
+  part_index: 122
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820125.tif/full/max/0/default.png
+- id: 64e28918ae304970b817ba4c5c9c4638
+  type: page
+  span:
+    start_char: 122231
+    end_char: 123344
+  part_of: bases/v0075
+  part_index: 123
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820126.tif/full/max/0/default.png
+- id: b7a90d4b43134ca69300771ad7bfdc3b
+  type: page
+  span:
+    start_char: 123349
+    end_char: 124478
+  part_of: bases/v0075
+  part_index: 124
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820127.tif/full/max/0/default.png
+- id: 3b0abff2e14e40ed81030f97ec7f2025
+  type: page
+  span:
+    start_char: 124483
+    end_char: 125625
+  part_of: bases/v0075
+  part_index: 125
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820128.tif/full/max/0/default.png
+- id: a9ffeeb752134b65a528471f93adfcc7
+  type: page
+  span:
+    start_char: 125630
+    end_char: 126777
+  part_of: bases/v0075
+  part_index: 126
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820129.tif/full/max/0/default.png
+- id: 1f702af13fd84923b42e3a5b7631651e
+  type: page
+  span:
+    start_char: 126782
+    end_char: 127903
+  part_of: bases/v0075
+  part_index: 127
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820130.tif/full/max/0/default.png
+- id: 4701ca5e214e49aea3187e66b4b47788
+  type: page
+  span:
+    start_char: 127908
+    end_char: 128995
+  part_of: bases/v0075
+  part_index: 128
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820131.tif/full/max/0/default.png
+- id: cfda6cd5388c4be59a5822f6ff9bc050
+  type: page
+  span:
+    start_char: 129000
+    end_char: 130104
+  part_of: bases/v0075
+  part_index: 129
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820132.tif/full/max/0/default.png
+- id: 795983061ab241e8a251eb31fef7fe8d
+  type: page
+  span:
+    start_char: 130109
+    end_char: 131146
+  part_of: bases/v0075
+  part_index: 130
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820133.tif/full/max/0/default.png
+- id: 346c9371c8414470947a869888cece3a
+  type: page
+  span:
+    start_char: 131151
+    end_char: 132217
+  part_of: bases/v0075
+  part_index: 131
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820134.tif/full/max/0/default.png
+- id: 7dec1bf03d5c4103ba37a597f86e890c
+  type: page
+  span:
+    start_char: 132222
+    end_char: 133319
+  part_of: bases/v0075
+  part_index: 132
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820135.tif/full/max/0/default.png
+- id: a99faf12c8d7410380e8948064b8b76f
+  type: page
+  span:
+    start_char: 133324
+    end_char: 134411
+  part_of: bases/v0075
+  part_index: 133
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820136.tif/full/max/0/default.png
+- id: 7f2189b0561d45339543d4d99603fcfc
+  type: page
+  span:
+    start_char: 134416
+    end_char: 135536
+  part_of: bases/v0075
+  part_index: 134
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820137.tif/full/max/0/default.png
+- id: 4e61ada3b52c438f86407eb5c8c81d38
+  type: page
+  span:
+    start_char: 135541
+    end_char: 136650
+  part_of: bases/v0075
+  part_index: 135
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820138.tif/full/max/0/default.png
+- id: e23c5c4c84114651a5331f32d3c0f905
+  type: page
+  span:
+    start_char: 136655
+    end_char: 137749
+  part_of: bases/v0075
+  part_index: 136
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820139.tif/full/max/0/default.png
+- id: d7c625303250497f855df19ba221515f
+  type: page
+  span:
+    start_char: 137754
+    end_char: 138736
+  part_of: bases/v0075
+  part_index: 137
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820140.tif/full/max/0/default.png
+- id: a711c15f109d4c1bb9554c156a16e4af
+  type: page
+  span:
+    start_char: 138741
+    end_char: 139761
+  part_of: bases/v0075
+  part_index: 138
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820141.tif/full/max/0/default.png
+- id: 0b93bb196d264d069267ada02988ea36
+  type: page
+  span:
+    start_char: 139766
+    end_char: 140823
+  part_of: bases/v0075
+  part_index: 139
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820142.tif/full/max/0/default.png
+- id: 26f7b61131424bd9a5e55b5eb6b40193
+  type: page
+  span:
+    start_char: 140828
+    end_char: 141854
+  part_of: bases/v0075
+  part_index: 140
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820143.tif/full/max/0/default.png
+- id: 243dc97e3dc744c7927673c02a3e237e
+  type: page
+  span:
+    start_char: 141859
+    end_char: 142869
+  part_of: bases/v0075
+  part_index: 141
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820144.tif/full/max/0/default.png
+- id: 75d11d4249ae4b8da8eb3725e7a09ad8
+  type: page
+  span:
+    start_char: 142874
+    end_char: 143894
+  part_of: bases/v0075
+  part_index: 142
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820145.tif/full/max/0/default.png
+- id: cb6937c027bb48a09292c7634ecb2864
+  type: page
+  span:
+    start_char: 143899
+    end_char: 144886
+  part_of: bases/v0075
+  part_index: 143
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820146.tif/full/max/0/default.png
+- id: ee30496efbd846d1a24349d6b85b6d4f
+  type: page
+  span:
+    start_char: 144891
+    end_char: 145846
+  part_of: bases/v0075
+  part_index: 144
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820147.tif/full/max/0/default.png
+- id: a34500b6a5e54776b0cbbf7961239029
+  type: page
+  span:
+    start_char: 145851
+    end_char: 146873
+  part_of: bases/v0075
+  part_index: 145
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820148.tif/full/max/0/default.png
+- id: 90eba3add9ab4984ba6b779a80f86388
+  type: page
+  span:
+    start_char: 146878
+    end_char: 147956
+  part_of: bases/v0075
+  part_index: 146
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820149.tif/full/max/0/default.png
+- id: 2704270a9f14452a82879f4d4debb664
+  type: page
+  span:
+    start_char: 147961
+    end_char: 149047
+  part_of: bases/v0075
+  part_index: 147
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820150.tif/full/max/0/default.png
+- id: 16dc0e83282d4347a6058a29e3d0c377
+  type: page
+  span:
+    start_char: 149052
+    end_char: 150081
+  part_of: bases/v0075
+  part_index: 148
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820151.tif/full/max/0/default.png
+- id: 03fe3f0a0697419da7f732b3be4e7e3c
+  type: page
+  span:
+    start_char: 150086
+    end_char: 151153
+  part_of: bases/v0075
+  part_index: 149
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820152.tif/full/max/0/default.png
+- id: 9f9598314f714fc7b00120e17e2746ed
+  type: page
+  span:
+    start_char: 151158
+    end_char: 152203
+  part_of: bases/v0075
+  part_index: 150
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820153.tif/full/max/0/default.png
+- id: 6ef24559945e40ca896d7fd4ae67def9
+  type: page
+  span:
+    start_char: 152208
+    end_char: 153281
+  part_of: bases/v0075
+  part_index: 151
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820154.tif/full/max/0/default.png
+- id: e3dc1cfa07284c63b083a4a4c2702e80
+  type: page
+  span:
+    start_char: 153286
+    end_char: 154281
+  part_of: bases/v0075
+  part_index: 152
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820155.tif/full/max/0/default.png
+- id: d1db0892cc4b4deeab827623efcf6fb3
+  type: page
+  span:
+    start_char: 154286
+    end_char: 155294
+  part_of: bases/v0075
+  part_index: 153
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820156.tif/full/max/0/default.png
+- id: 151e186172f44072bb1b41a1720c7fbb
+  type: page
+  span:
+    start_char: 155299
+    end_char: 156311
+  part_of: bases/v0075
+  part_index: 154
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820157.tif/full/max/0/default.png
+- id: bae07525bc074c6098770f3fed28de54
+  type: page
+  span:
+    start_char: 156316
+    end_char: 157355
+  part_of: bases/v0075
+  part_index: 155
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820158.tif/full/max/0/default.png
+- id: 7fa5caa3b80b401fb7432ae2230fd30d
+  type: page
+  span:
+    start_char: 157360
+    end_char: 158379
+  part_of: bases/v0075
+  part_index: 156
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820159.tif/full/max/0/default.png
+- id: 983f52cd384a433e8a03a287b76fb2f6
+  type: page
+  span:
+    start_char: 158384
+    end_char: 159337
+  part_of: bases/v0075
+  part_index: 157
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820160.tif/full/max/0/default.png
+- id: b4b33b11934b48a99b562697615ca9ab
+  type: page
+  span:
+    start_char: 159342
+    end_char: 160327
+  part_of: bases/v0075
+  part_index: 158
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820161.tif/full/max/0/default.png
+- id: 2ebe3760ab3d40db9f021036e95af020
+  type: page
+  span:
+    start_char: 160332
+    end_char: 161356
+  part_of: bases/v0075
+  part_index: 159
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820162.tif/full/max/0/default.png
+- id: 941cc0ffdafd4fd8822e7b850a5b32de
+  type: page
+  span:
+    start_char: 161361
+    end_char: 162329
+  part_of: bases/v0075
+  part_index: 160
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820163.tif/full/max/0/default.png
+- id: 22684045492047cbb8d3fb8065340ae8
+  type: page
+  span:
+    start_char: 162334
+    end_char: 163363
+  part_of: bases/v0075
+  part_index: 161
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820164.tif/full/max/0/default.png
+- id: f3ff9e6e889e44c8aeb543fe404a01c8
+  type: page
+  span:
+    start_char: 163368
+    end_char: 164421
+  part_of: bases/v0075
+  part_index: 162
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820165.tif/full/max/0/default.png
+- id: fcbfc2574dd64aa98512c3aba190a426
+  type: page
+  span:
+    start_char: 164426
+    end_char: 165489
+  part_of: bases/v0075
+  part_index: 163
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820166.tif/full/max/0/default.png
+- id: 981731a531d74a918e2d8b7673670920
+  type: page
+  span:
+    start_char: 165494
+    end_char: 166496
+  part_of: bases/v0075
+  part_index: 164
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820167.tif/full/max/0/default.png
+- id: 429371fe6b22473cb429db059e9ad08a
+  type: page
+  span:
+    start_char: 166501
+    end_char: 167532
+  part_of: bases/v0075
+  part_index: 165
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820168.tif/full/max/0/default.png
+- id: 6316a126941b461385718d573a27b185
+  type: page
+  span:
+    start_char: 167537
+    end_char: 168635
+  part_of: bases/v0075
+  part_index: 166
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820169.tif/full/max/0/default.png
+- id: dd1290a121ee4055876321e98534dcb1
+  type: page
+  span:
+    start_char: 168640
+    end_char: 169665
+  part_of: bases/v0075
+  part_index: 167
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820170.tif/full/max/0/default.png
+- id: 2af9a8562d164ef799218a247bd1d6bc
+  type: page
+  span:
+    start_char: 169670
+    end_char: 170645
+  part_of: bases/v0075
+  part_index: 168
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820171.tif/full/max/0/default.png
+- id: 280648aca5f84c549ff9f7bfce629f15
+  type: page
+  span:
+    start_char: 170650
+    end_char: 171735
+  part_of: bases/v0075
+  part_index: 169
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820172.tif/full/max/0/default.png
+- id: 4674f4350ea643cdbf0602a59057a1f8
+  type: page
+  span:
+    start_char: 171740
+    end_char: 172877
+  part_of: bases/v0075
+  part_index: 170
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820173.tif/full/max/0/default.png
+- id: e680bda8413e443f96501797c8075d06
+  type: page
+  span:
+    start_char: 172882
+    end_char: 173947
+  part_of: bases/v0075
+  part_index: 171
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820174.tif/full/max/0/default.png
+- id: 49ec7cdc3ba6438796e80a3c3dd1da58
+  type: page
+  span:
+    start_char: 173952
+    end_char: 175021
+  part_of: bases/v0075
+  part_index: 172
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820175.tif/full/max/0/default.png
+- id: 51c269c0d3014bd59ea9b037dea953e2
+  type: page
+  span:
+    start_char: 175026
+    end_char: 176067
+  part_of: bases/v0075
+  part_index: 173
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820176.tif/full/max/0/default.png
+- id: 1bd1e61c29134827b741d45248594816
+  type: page
+  span:
+    start_char: 176072
+    end_char: 177055
+  part_of: bases/v0075
+  part_index: 174
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820177.tif/full/max/0/default.png
+- id: 0fc12674f64a454a851dca513acd1cdc
+  type: page
+  span:
+    start_char: 177060
+    end_char: 178106
+  part_of: bases/v0075
+  part_index: 175
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820178.tif/full/max/0/default.png
+- id: 0eb898cf51714123bf37241f27588e16
+  type: page
+  span:
+    start_char: 178111
+    end_char: 179164
+  part_of: bases/v0075
+  part_index: 176
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820179.tif/full/max/0/default.png
+- id: 9efe906862b44020a0b524e19044de99
+  type: page
+  span:
+    start_char: 179169
+    end_char: 180243
+  part_of: bases/v0075
+  part_index: 177
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820180.tif/full/max/0/default.png
+- id: 32872cabc16f43f19bfad3d0af04d37c
+  type: page
+  span:
+    start_char: 180248
+    end_char: 181327
+  part_of: bases/v0075
+  part_index: 178
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820181.tif/full/max/0/default.png
+- id: 686fffd7f8c648d7a0614deb069c970a
+  type: page
+  span:
+    start_char: 181332
+    end_char: 182357
+  part_of: bases/v0075
+  part_index: 179
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820182.tif/full/max/0/default.png
+- id: 17c9350775944155b43e55a6271589bd
+  type: page
+  span:
+    start_char: 182362
+    end_char: 183338
+  part_of: bases/v0075
+  part_index: 180
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820183.tif/full/max/0/default.png
+- id: 03d89941f37f4e26a0d3892791caeb5e
+  type: page
+  span:
+    start_char: 183343
+    end_char: 184353
+  part_of: bases/v0075
+  part_index: 181
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820184.tif/full/max/0/default.png
+- id: ceb34eefcf214e5aaadb332ad7189211
+  type: page
+  span:
+    start_char: 184358
+    end_char: 185387
+  part_of: bases/v0075
+  part_index: 182
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820185.tif/full/max/0/default.png
+- id: 7bdee89c4d5f40b08c41416513445f5c
+  type: page
+  span:
+    start_char: 185392
+    end_char: 186474
+  part_of: bases/v0075
+  part_index: 183
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820186.tif/full/max/0/default.png
+- id: 269eb30c1e3a439591715e1f04fc8192
+  type: page
+  span:
+    start_char: 186479
+    end_char: 187520
+  part_of: bases/v0075
+  part_index: 184
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820187.tif/full/max/0/default.png
+- id: 98a2c48230a84175adf6520b9464dbb4
+  type: page
+  span:
+    start_char: 187525
+    end_char: 188583
+  part_of: bases/v0075
+  part_index: 185
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820188.tif/full/max/0/default.png
+- id: d346a3a70ca2494ea5a44738b43051f5
+  type: page
+  span:
+    start_char: 188588
+    end_char: 189640
+  part_of: bases/v0075
+  part_index: 186
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820189.tif/full/max/0/default.png
+- id: ffa31ae89ee54e23b5fb09340f3eff00
+  type: page
+  span:
+    start_char: 189645
+    end_char: 190732
+  part_of: bases/v0075
+  part_index: 187
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820190.tif/full/max/0/default.png
+- id: 0dbee7b89c2c49c693bf44d431621dc3
+  type: page
+  span:
+    start_char: 190737
+    end_char: 191798
+  part_of: bases/v0075
+  part_index: 188
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820191.tif/full/max/0/default.png
+- id: 473eb7557af54f4db74de2fbbdeda7ed
+  type: page
+  span:
+    start_char: 191803
+    end_char: 192834
+  part_of: bases/v0075
+  part_index: 189
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820192.tif/full/max/0/default.png
+- id: acbc41891254410088398f8facccfd82
+  type: page
+  span:
+    start_char: 192839
+    end_char: 193889
+  part_of: bases/v0075
+  part_index: 190
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820193.tif/full/max/0/default.png
+- id: 716bda9c74354b5e98c45c861020b8ce
+  type: page
+  span:
+    start_char: 193894
+    end_char: 194967
+  part_of: bases/v0075
+  part_index: 191
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820194.tif/full/max/0/default.png
+- id: eb6b274fa6f144c294ec30374d4e5e2c
+  type: page
+  span:
+    start_char: 194972
+    end_char: 196034
+  part_of: bases/v0075
+  part_index: 192
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820195.tif/full/max/0/default.png
+- id: 1a5e98d6e98744819b5ff26798be6b32
+  type: page
+  span:
+    start_char: 196039
+    end_char: 197077
+  part_of: bases/v0075
+  part_index: 193
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820196.tif/full/max/0/default.png
+- id: 720407ade1bc4589865f4c83fb38fb1c
+  type: page
+  span:
+    start_char: 197082
+    end_char: 198122
+  part_of: bases/v0075
+  part_index: 194
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820197.tif/full/max/0/default.png
+- id: baa6754c17cd451b81e1834a45119d34
+  type: page
+  span:
+    start_char: 198127
+    end_char: 199156
+  part_of: bases/v0075
+  part_index: 195
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820198.tif/full/max/0/default.png
+- id: 56bc94fbfdcc407c9a6d9cae8125b360
+  type: page
+  span:
+    start_char: 199161
+    end_char: 200194
+  part_of: bases/v0075
+  part_index: 196
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820199.tif/full/max/0/default.png
+- id: 5d504091dee04d628c7455cf0343fe25
+  type: page
+  span:
+    start_char: 200199
+    end_char: 201233
+  part_of: bases/v0075
+  part_index: 197
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820200.tif/full/max/0/default.png
+- id: ea93c2633d4742c685cfbd887b886faf
+  type: page
+  span:
+    start_char: 201238
+    end_char: 202276
+  part_of: bases/v0075
+  part_index: 198
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820201.tif/full/max/0/default.png
+- id: 060d71906ff747feb60633625a1e3307
+  type: page
+  span:
+    start_char: 202281
+    end_char: 203332
+  part_of: bases/v0075
+  part_index: 199
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820202.tif/full/max/0/default.png
+- id: ad3285665719403c969c667cf8eb1c17
+  type: page
+  span:
+    start_char: 203337
+    end_char: 204411
+  part_of: bases/v0075
+  part_index: 200
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820203.tif/full/max/0/default.png
+- id: 3b968557c6cc4ceb943f8bde84a72747
+  type: page
+  span:
+    start_char: 204416
+    end_char: 205525
+  part_of: bases/v0075
+  part_index: 201
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820204.tif/full/max/0/default.png
+- id: a9c0d679e7a84223b465eb59547a2a18
+  type: page
+  span:
+    start_char: 205530
+    end_char: 206629
+  part_of: bases/v0075
+  part_index: 202
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820205.tif/full/max/0/default.png
+- id: 74b8a4b313df4a8ebf52e9f061116d5d
+  type: page
+  span:
+    start_char: 206634
+    end_char: 207746
+  part_of: bases/v0075
+  part_index: 203
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820206.tif/full/max/0/default.png
+- id: 6a66ae7a2b16402d956cae25575c0769
+  type: page
+  span:
+    start_char: 207751
+    end_char: 208858
+  part_of: bases/v0075
+  part_index: 204
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820207.tif/full/max/0/default.png
+- id: 93361cc36eb1476a8d598a5224e9735e
+  type: page
+  span:
+    start_char: 208863
+    end_char: 209959
+  part_of: bases/v0075
+  part_index: 205
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820208.tif/full/max/0/default.png
+- id: a5ac326ac727458f902b9d57a6a197d3
+  type: page
+  span:
+    start_char: 209964
+    end_char: 211047
+  part_of: bases/v0075
+  part_index: 206
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820209.tif/full/max/0/default.png
+- id: 3a11f8530f504e949469c54e7de68433
+  type: page
+  span:
+    start_char: 211052
+    end_char: 212174
+  part_of: bases/v0075
+  part_index: 207
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820210.tif/full/max/0/default.png
+- id: a7d958be1e4b4f01adf40a95b1f2bd9b
+  type: page
+  span:
+    start_char: 212179
+    end_char: 213274
+  part_of: bases/v0075
+  part_index: 208
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820211.tif/full/max/0/default.png
+- id: 8fc0f8e61fbd4b108ad7807ceb9f5bcd
+  type: page
+  span:
+    start_char: 213279
+    end_char: 214396
+  part_of: bases/v0075
+  part_index: 209
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820212.tif/full/max/0/default.png
+- id: 08302b6152574b27baf69601f78fee45
+  type: page
+  span:
+    start_char: 214401
+    end_char: 215480
+  part_of: bases/v0075
+  part_index: 210
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820213.tif/full/max/0/default.png
+- id: f9639b456fd44c6282e0a57d69effb2d
+  type: page
+  span:
+    start_char: 215485
+    end_char: 216533
+  part_of: bases/v0075
+  part_index: 211
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820214.tif/full/max/0/default.png
+- id: 81914f48fcba43e388136b1180adc3f4
+  type: page
+  span:
+    start_char: 216538
+    end_char: 217583
+  part_of: bases/v0075
+  part_index: 212
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820215.tif/full/max/0/default.png
+- id: 5ab13e1a6d6c47eda25a5ece28d52c24
+  type: page
+  span:
+    start_char: 217588
+    end_char: 218625
+  part_of: bases/v0075
+  part_index: 213
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820216.tif/full/max/0/default.png
+- id: ec39fa2bba3c4299ae9ab5d49bdfa32f
+  type: page
+  span:
+    start_char: 218630
+    end_char: 219678
+  part_of: bases/v0075
+  part_index: 214
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820217.tif/full/max/0/default.png
+- id: 94103840f79541dfa7a3023af1ad0ce3
+  type: page
+  span:
+    start_char: 219683
+    end_char: 220740
+  part_of: bases/v0075
+  part_index: 215
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820218.tif/full/max/0/default.png
+- id: 624205e9530d4162ba6e13d3443ef5d2
+  type: page
+  span:
+    start_char: 220745
+    end_char: 221774
+  part_of: bases/v0075
+  part_index: 216
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820219.tif/full/max/0/default.png
+- id: 7ed12e8d5c3445fc97549687b574a389
+  type: page
+  span:
+    start_char: 221779
+    end_char: 222857
+  part_of: bases/v0075
+  part_index: 217
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820220.tif/full/max/0/default.png
+- id: 5e22dd1ebab647d897f52c76f82c16da
+  type: page
+  span:
+    start_char: 222862
+    end_char: 223885
+  part_of: bases/v0075
+  part_index: 218
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820221.tif/full/max/0/default.png
+- id: 6e21e49f10104063be27255b8ff81dd1
+  type: page
+  span:
+    start_char: 223890
+    end_char: 225119
+  part_of: bases/v0075
+  part_index: 219
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820222.tif/full/max/0/default.png
+- id: 8a1826fc9586494d8db2424bc573b0c0
+  type: page
+  span:
+    start_char: 225124
+    end_char: 226201
+  part_of: bases/v0075
+  part_index: 220
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820223.tif/full/max/0/default.png
+- id: 646de6aa5b074cf68a7c010cd2983715
+  type: page
+  span:
+    start_char: 226206
+    end_char: 227228
+  part_of: bases/v0075
+  part_index: 221
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820224.tif/full/max/0/default.png
+- id: 9fb6ad4e82d6431c9e929c5b678b99ba
+  type: page
+  span:
+    start_char: 227233
+    end_char: 228349
+  part_of: bases/v0075
+  part_index: 222
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820225.tif/full/max/0/default.png
+- id: f394573dd20d49e3b959f4e66975d301
+  type: page
+  span:
+    start_char: 228354
+    end_char: 229419
+  part_of: bases/v0075
+  part_index: 223
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820226.tif/full/max/0/default.png
+- id: 69242d314f6747c29cf6699e6ab12410
+  type: page
+  span:
+    start_char: 229424
+    end_char: 230505
+  part_of: bases/v0075
+  part_index: 224
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820227.tif/full/max/0/default.png
+- id: 369716a0046443b3ba20497cedc80b05
+  type: page
+  span:
+    start_char: 230510
+    end_char: 231584
+  part_of: bases/v0075
+  part_index: 225
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820228.tif/full/max/0/default.png
+- id: 1434e3e199974c7bb3ca53a328c4c48c
+  type: page
+  span:
+    start_char: 231589
+    end_char: 232625
+  part_of: bases/v0075
+  part_index: 226
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820229.tif/full/max/0/default.png
+- id: 1e73d94036fa4b69a2c9dbe9b5b52473
+  type: page
+  span:
+    start_char: 232630
+    end_char: 233690
+  part_of: bases/v0075
+  part_index: 227
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820230.tif/full/max/0/default.png
+- id: 3dfe6c00d5e04fa19734858ae394a8b1
+  type: page
+  span:
+    start_char: 233695
+    end_char: 234728
+  part_of: bases/v0075
+  part_index: 228
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820231.tif/full/max/0/default.png
+- id: 22e89f9026214c3583235384bbc93ed1
+  type: page
+  span:
+    start_char: 234733
+    end_char: 235760
+  part_of: bases/v0075
+  part_index: 229
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820232.tif/full/max/0/default.png
+- id: 11e2861aaedb481eb4f0f357d9cd799f
+  type: page
+  span:
+    start_char: 235765
+    end_char: 236801
+  part_of: bases/v0075
+  part_index: 230
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820233.tif/full/max/0/default.png
+- id: f8bc95533f304538b478c566258bc574
+  type: page
+  span:
+    start_char: 236806
+    end_char: 237860
+  part_of: bases/v0075
+  part_index: 231
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820234.tif/full/max/0/default.png
+- id: 7be271515f0749b4a4abe532609926a2
+  type: page
+  span:
+    start_char: 237865
+    end_char: 238918
+  part_of: bases/v0075
+  part_index: 232
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820235.tif/full/max/0/default.png
+- id: 1de95edc09b9490494bad780da26237e
+  type: page
+  span:
+    start_char: 238923
+    end_char: 239965
+  part_of: bases/v0075
+  part_index: 233
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820236.tif/full/max/0/default.png
+- id: 41e33efd8afb4b0f999dc7082b147966
+  type: page
+  span:
+    start_char: 239970
+    end_char: 240902
+  part_of: bases/v0075
+  part_index: 234
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820237.tif/full/max/0/default.png
+- id: ea0fb62eea4b4f6db4baf0b5a1bdbc3d
+  type: page
+  span:
+    start_char: 240907
+    end_char: 241899
+  part_of: bases/v0075
+  part_index: 235
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820238.tif/full/max/0/default.png
+- id: 14d24e25c5ba455e9a1ba755cca31369
+  type: page
+  span:
+    start_char: 241904
+    end_char: 242930
+  part_of: bases/v0075
+  part_index: 236
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820239.tif/full/max/0/default.png
+- id: 975c49fe39384f71b8fdaf0710066dc9
+  type: page
+  span:
+    start_char: 242935
+    end_char: 243997
+  part_of: bases/v0075
+  part_index: 237
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820240.tif/full/max/0/default.png
+- id: 32dbc1c829164605a3a4ed22cf4978da
+  type: page
+  span:
+    start_char: 244002
+    end_char: 245042
+  part_of: bases/v0075
+  part_index: 238
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820241.tif/full/max/0/default.png
+- id: 0ae8eda627de42cbad20beb850dbef3b
+  type: page
+  span:
+    start_char: 245047
+    end_char: 246074
+  part_of: bases/v0075
+  part_index: 239
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820242.tif/full/max/0/default.png
+- id: c1b41d9eec574e728da13d819fcee16e
+  type: page
+  span:
+    start_char: 246079
+    end_char: 247132
+  part_of: bases/v0075
+  part_index: 240
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820243.tif/full/max/0/default.png
+- id: a37afc26902742c2852cd3ab4b865d17
+  type: page
+  span:
+    start_char: 247137
+    end_char: 248165
+  part_of: bases/v0075
+  part_index: 241
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820244.tif/full/max/0/default.png
+- id: 7f994c63bef24344bf5ab4d46e297a40
+  type: page
+  span:
+    start_char: 248170
+    end_char: 249208
+  part_of: bases/v0075
+  part_index: 242
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820245.tif/full/max/0/default.png
+- id: 41b756bfb022425da3a8302d07cafcb2
+  type: page
+  span:
+    start_char: 249213
+    end_char: 250230
+  part_of: bases/v0075
+  part_index: 243
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820246.tif/full/max/0/default.png
+- id: 497c10f45ac94df4b5a225c20fc6a9d5
+  type: page
+  span:
+    start_char: 250235
+    end_char: 251256
+  part_of: bases/v0075
+  part_index: 244
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820247.tif/full/max/0/default.png
+- id: 3e19c4ff8c0e4da594407e89dcbe5274
+  type: page
+  span:
+    start_char: 251261
+    end_char: 252288
+  part_of: bases/v0075
+  part_index: 245
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820248.tif/full/max/0/default.png
+- id: 4f406f9c5ddb4cbe80535c9d79c7be0a
+  type: page
+  span:
+    start_char: 252293
+    end_char: 253259
+  part_of: bases/v0075
+  part_index: 246
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820249.tif/full/max/0/default.png
+- id: b127734a961b4f67b7fc141e9a7f4f87
+  type: page
+  span:
+    start_char: 253264
+    end_char: 254287
+  part_of: bases/v0075
+  part_index: 247
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820250.tif/full/max/0/default.png
+- id: 33cc3e98a8aa413d908da063af40ae4d
+  type: page
+  span:
+    start_char: 254292
+    end_char: 255316
+  part_of: bases/v0075
+  part_index: 248
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820251.tif/full/max/0/default.png
+- id: 63a56203358b45799d370100a3242ca0
+  type: page
+  span:
+    start_char: 255321
+    end_char: 256345
+  part_of: bases/v0075
+  part_index: 249
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820252.tif/full/max/0/default.png
+- id: 57c61f98ae0c496594df6eff65601613
+  type: page
+  span:
+    start_char: 256350
+    end_char: 257384
+  part_of: bases/v0075
+  part_index: 250
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820253.tif/full/max/0/default.png
+- id: 387714eb28d04a349b6a5ebbe07bdd98
+  type: page
+  span:
+    start_char: 257389
+    end_char: 258369
+  part_of: bases/v0075
+  part_index: 251
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820254.tif/full/max/0/default.png
+- id: 6c595f7e87484bb3b26229584f27c79b
+  type: page
+  span:
+    start_char: 258374
+    end_char: 259394
+  part_of: bases/v0075
+  part_index: 252
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820255.tif/full/max/0/default.png
+- id: f4349f8973cf4234ad903d30bfccf348
+  type: page
+  span:
+    start_char: 259399
+    end_char: 260456
+  part_of: bases/v0075
+  part_index: 253
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820256.tif/full/max/0/default.png
+- id: 4f643b492e0941549575fbe2a6236822
+  type: page
+  span:
+    start_char: 260461
+    end_char: 261443
+  part_of: bases/v0075
+  part_index: 254
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820257.tif/full/max/0/default.png
+- id: 04f5c3a8f5ee4e8d902a0cf91719846c
+  type: page
+  span:
+    start_char: 261448
+    end_char: 262465
+  part_of: bases/v0075
+  part_index: 255
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820258.tif/full/max/0/default.png
+- id: dabad86fd80248669836399d53e18684
+  type: page
+  span:
+    start_char: 262470
+    end_char: 263470
+  part_of: bases/v0075
+  part_index: 256
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820259.tif/full/max/0/default.png
+- id: 094357278a164ec0940f791dfb38b90c
+  type: page
+  span:
+    start_char: 263475
+    end_char: 264487
+  part_of: bases/v0075
+  part_index: 257
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820260.tif/full/max/0/default.png
+- id: 2f03fdb3dcc4483182ee6edf5d1a91da
+  type: page
+  span:
+    start_char: 264492
+    end_char: 265505
+  part_of: bases/v0075
+  part_index: 258
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820261.tif/full/max/0/default.png
+- id: a3cf76e9a9c24a93aad1dd0ef3f13b8c
+  type: page
+  span:
+    start_char: 265510
+    end_char: 266550
+  part_of: bases/v0075
+  part_index: 259
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820262.tif/full/max/0/default.png
+- id: cd2a5d9dadb84ddea47fda25b2d561bf
+  type: page
+  span:
+    start_char: 266555
+    end_char: 267609
+  part_of: bases/v0075
+  part_index: 260
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820263.tif/full/max/0/default.png
+- id: c2ab0ffb22e24484a1cf41b5f5ee8096
+  type: page
+  span:
+    start_char: 267614
+    end_char: 268644
+  part_of: bases/v0075
+  part_index: 261
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820264.tif/full/max/0/default.png
+- id: aed3c40d11f24e77b8c47ed82203712d
+  type: page
+  span:
+    start_char: 268649
+    end_char: 269643
+  part_of: bases/v0075
+  part_index: 262
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820265.tif/full/max/0/default.png
+- id: bc27af40ea0246b5a7bacad378951dbc
+  type: page
+  span:
+    start_char: 269648
+    end_char: 270637
+  part_of: bases/v0075
+  part_index: 263
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820266.tif/full/max/0/default.png
+- id: 34e9035c6cd441e2bedbf54556efd204
+  type: page
+  span:
+    start_char: 270642
+    end_char: 271668
+  part_of: bases/v0075
+  part_index: 264
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820267.tif/full/max/0/default.png
+- id: 45193b2327824ae3b935a3651fe83875
+  type: page
+  span:
+    start_char: 271673
+    end_char: 272638
+  part_of: bases/v0075
+  part_index: 265
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820268.tif/full/max/0/default.png
+- id: 2f63d3057ba54d0698d8d64e516aef76
+  type: page
+  span:
+    start_char: 272643
+    end_char: 273652
+  part_of: bases/v0075
+  part_index: 266
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820269.tif/full/max/0/default.png
+- id: 5f9033e9282243988429d14291dbabd7
+  type: page
+  span:
+    start_char: 273657
+    end_char: 274686
+  part_of: bases/v0075
+  part_index: 267
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820270.tif/full/max/0/default.png
+- id: 15960e0e433f4754956034adc0c809cf
+  type: page
+  span:
+    start_char: 274691
+    end_char: 275691
+  part_of: bases/v0075
+  part_index: 268
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820271.tif/full/max/0/default.png
+- id: d9a925ecd4fb4c34a3cb56fb6280ff7e
+  type: page
+  span:
+    start_char: 275696
+    end_char: 276697
+  part_of: bases/v0075
+  part_index: 269
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820272.tif/full/max/0/default.png
+- id: 20261d68db054bd5938fa0142db6caff
+  type: page
+  span:
+    start_char: 276702
+    end_char: 277705
+  part_of: bases/v0075
+  part_index: 270
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820273.tif/full/max/0/default.png
+- id: a7dd143975174e8cb30be11334e2fbeb
+  type: page
+  span:
+    start_char: 277710
+    end_char: 278704
+  part_of: bases/v0075
+  part_index: 271
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820274.tif/full/max/0/default.png
+- id: 84c9e6dc95e341eb8ff0229f143297d7
+  type: page
+  span:
+    start_char: 278709
+    end_char: 279775
+  part_of: bases/v0075
+  part_index: 272
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820275.tif/full/max/0/default.png
+- id: da796de2fadb4f06b5f5648df3515dfe
+  type: page
+  span:
+    start_char: 279780
+    end_char: 280882
+  part_of: bases/v0075
+  part_index: 273
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820276.tif/full/max/0/default.png
+- id: 1ba956397da94d06aac73aa33ed9a58a
+  type: page
+  span:
+    start_char: 280887
+    end_char: 282084
+  part_of: bases/v0075
+  part_index: 274
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820277.tif/full/max/0/default.png
+- id: 979188161c9d49e49b32964d79dfc157
+  type: page
+  span:
+    start_char: 282089
+    end_char: 283158
+  part_of: bases/v0075
+  part_index: 275
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820278.tif/full/max/0/default.png
+- id: 69a0438c655c4746a688f4658eb03732
+  type: page
+  span:
+    start_char: 283163
+    end_char: 284213
+  part_of: bases/v0075
+  part_index: 276
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820279.tif/full/max/0/default.png
+- id: 5efa472cfef24ad49c3f8c623d8d0222
+  type: page
+  span:
+    start_char: 284218
+    end_char: 285246
+  part_of: bases/v0075
+  part_index: 277
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820280.tif/full/max/0/default.png
+- id: 371de194a5c74f7793dafea0a4cfb2b3
+  type: page
+  span:
+    start_char: 285251
+    end_char: 286300
+  part_of: bases/v0075
+  part_index: 278
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820281.tif/full/max/0/default.png
+- id: 4ba372ad6a274f8c9166bc22f869f308
+  type: page
+  span:
+    start_char: 286305
+    end_char: 287382
+  part_of: bases/v0075
+  part_index: 279
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820282.tif/full/max/0/default.png
+- id: 39702071293f4cce8e2dad2c5382cc3c
+  type: page
+  span:
+    start_char: 287387
+    end_char: 288451
+  part_of: bases/v0075
+  part_index: 280
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820283.tif/full/max/0/default.png
+- id: 1145925139d84dce91b5fc5de0b94652
+  type: page
+  span:
+    start_char: 288456
+    end_char: 289536
+  part_of: bases/v0075
+  part_index: 281
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820284.tif/full/max/0/default.png
+- id: 01d2d4ad75214f17baf83175bd3975d6
+  type: page
+  span:
+    start_char: 289541
+    end_char: 290606
+  part_of: bases/v0075
+  part_index: 282
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820285.tif/full/max/0/default.png
+- id: 1815986650594fe6be6d87ebf901d303
+  type: page
+  span:
+    start_char: 290611
+    end_char: 291689
+  part_of: bases/v0075
+  part_index: 283
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820286.tif/full/max/0/default.png
+- id: 8ac7e03c871d4019a6f8fb296278498d
+  type: page
+  span:
+    start_char: 291694
+    end_char: 292777
+  part_of: bases/v0075
+  part_index: 284
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820287.tif/full/max/0/default.png
+- id: 734f25657dfa4b08b3176132deb5a6eb
+  type: page
+  span:
+    start_char: 292782
+    end_char: 293812
+  part_of: bases/v0075
+  part_index: 285
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820288.tif/full/max/0/default.png
+- id: ba7c3f4a8f9943d6b1ae7253c01c0050
+  type: page
+  span:
+    start_char: 293817
+    end_char: 294936
+  part_of: bases/v0075
+  part_index: 286
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820289.tif/full/max/0/default.png
+- id: ca58bcb0d9c24b89a245f90a1c79a1e5
+  type: page
+  span:
+    start_char: 294941
+    end_char: 296032
+  part_of: bases/v0075
+  part_index: 287
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820290.tif/full/max/0/default.png
+- id: 168ebca9969c41ec8e84e954368663fa
+  type: page
+  span:
+    start_char: 296037
+    end_char: 297087
+  part_of: bases/v0075
+  part_index: 288
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820291.tif/full/max/0/default.png
+- id: 7e7c48ba688e41a0b6875c43628c08be
+  type: page
+  span:
+    start_char: 297092
+    end_char: 298178
+  part_of: bases/v0075
+  part_index: 289
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820292.tif/full/max/0/default.png
+- id: b707ad78f7ea46ae8460f17a72740bbf
+  type: page
+  span:
+    start_char: 298183
+    end_char: 299314
+  part_of: bases/v0075
+  part_index: 290
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820293.tif/full/max/0/default.png
+- id: 5be86acf72ae4118906e98892afbf7c2
+  type: page
+  span:
+    start_char: 299319
+    end_char: 300376
+  part_of: bases/v0075
+  part_index: 291
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820294.tif/full/max/0/default.png
+- id: bda8180414a14d2fa74fa5993d07a428
+  type: page
+  span:
+    start_char: 300381
+    end_char: 301504
+  part_of: bases/v0075
+  part_index: 292
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820295.tif/full/max/0/default.png
+- id: 10a4b797a0174b00b684d9e9ff17b2de
+  type: page
+  span:
+    start_char: 301509
+    end_char: 302579
+  part_of: bases/v0075
+  part_index: 293
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820296.tif/full/max/0/default.png
+- id: 996c967ffdb94903b2fcd0c8dac2a7ae
+  type: page
+  span:
+    start_char: 302584
+    end_char: 303678
+  part_of: bases/v0075
+  part_index: 294
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820297.tif/full/max/0/default.png
+- id: f8e4437122be44de972fced05acff07f
+  type: page
+  span:
+    start_char: 303683
+    end_char: 304748
+  part_of: bases/v0075
+  part_index: 295
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820298.tif/full/max/0/default.png
+- id: 1af737bbb39d4534ad168b74beb38185
+  type: page
+  span:
+    start_char: 304753
+    end_char: 305828
+  part_of: bases/v0075
+  part_index: 296
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820299.tif/full/max/0/default.png
+- id: 8161537d9a2d4feaaf348933506666d5
+  type: page
+  span:
+    start_char: 305833
+    end_char: 306887
+  part_of: bases/v0075
+  part_index: 297
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820300.tif/full/max/0/default.png
+- id: 61fc89fc45024f7cbf7010802a0ec507
+  type: page
+  span:
+    start_char: 306892
+    end_char: 307898
+  part_of: bases/v0075
+  part_index: 298
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820301.tif/full/max/0/default.png
+- id: efdbf1ebd49246d382c3ed908717a4b0
+  type: page
+  span:
+    start_char: 307903
+    end_char: 308946
+  part_of: bases/v0075
+  part_index: 299
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820302.tif/full/max/0/default.png
+- id: cbdd5e9f4ca94082951d84ed70dab33c
+  type: page
+  span:
+    start_char: 308951
+    end_char: 310041
+  part_of: bases/v0075
+  part_index: 300
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820303.tif/full/max/0/default.png
+- id: 8e288baa0e3e4e0bb41d3c22a275e9b0
+  type: page
+  span:
+    start_char: 310046
+    end_char: 311113
+  part_of: bases/v0075
+  part_index: 301
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820304.tif/full/max/0/default.png
+- id: 9dc3a05a20b24d28983d9d002a449939
+  type: page
+  span:
+    start_char: 311118
+    end_char: 312181
+  part_of: bases/v0075
+  part_index: 302
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820305.tif/full/max/0/default.png
+- id: b2e47f94267d4e56b5fa3debcf1bf3c6
+  type: page
+  span:
+    start_char: 312186
+    end_char: 313293
+  part_of: bases/v0075
+  part_index: 303
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820306.tif/full/max/0/default.png
+- id: 3f7bd1036179471ca86d070e491b4fbf
+  type: page
+  span:
+    start_char: 313298
+    end_char: 314354
+  part_of: bases/v0075
+  part_index: 304
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820307.tif/full/max/0/default.png
+- id: c83b1f84030d4496bf5c3b7c4c6b831b
+  type: page
+  span:
+    start_char: 314359
+    end_char: 315432
+  part_of: bases/v0075
+  part_index: 305
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820308.tif/full/max/0/default.png
+- id: 92660b0c905e4f5e921b08892ecb1d62
+  type: page
+  span:
+    start_char: 315437
+    end_char: 316557
+  part_of: bases/v0075
+  part_index: 306
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820309.tif/full/max/0/default.png
+- id: e013a4aacebe4ed381a7298edaf07ce2
+  type: page
+  span:
+    start_char: 316562
+    end_char: 317636
+  part_of: bases/v0075
+  part_index: 307
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820310.tif/full/max/0/default.png
+- id: 70e68f5e919f4bbfab6ee55f99f075c8
+  type: page
+  span:
+    start_char: 317641
+    end_char: 318800
+  part_of: bases/v0075
+  part_index: 308
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820311.tif/full/max/0/default.png
+- id: 1bf2ca79e9164a378052cef487bea50d
+  type: page
+  span:
+    start_char: 318805
+    end_char: 319900
+  part_of: bases/v0075
+  part_index: 309
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820312.tif/full/max/0/default.png
+- id: 8916664ec2184a3bbff40b924288753d
+  type: page
+  span:
+    start_char: 319905
+    end_char: 321011
+  part_of: bases/v0075
+  part_index: 310
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820313.tif/full/max/0/default.png
+- id: 8877b044b7c54f28b1f710b34b3eaacc
+  type: page
+  span:
+    start_char: 321016
+    end_char: 322106
+  part_of: bases/v0075
+  part_index: 311
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820314.tif/full/max/0/default.png
+- id: d75792576b354e33a58c2d813ba32b3d
+  type: page
+  span:
+    start_char: 322111
+    end_char: 323188
+  part_of: bases/v0075
+  part_index: 312
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820315.tif/full/max/0/default.png
+- id: 3f12d570ea3942aea9259ca939d4d92c
+  type: page
+  span:
+    start_char: 323193
+    end_char: 324257
+  part_of: bases/v0075
+  part_index: 313
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820316.tif/full/max/0/default.png
+- id: df4c5f949e2545949689b2e459059443
+  type: page
+  span:
+    start_char: 324262
+    end_char: 325353
+  part_of: bases/v0075
+  part_index: 314
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820317.tif/full/max/0/default.png
+- id: 5c87b22df20d42e38d55899e77d9818e
+  type: page
+  span:
+    start_char: 325358
+    end_char: 326457
+  part_of: bases/v0075
+  part_index: 315
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820318.tif/full/max/0/default.png
+- id: b12db0f8d9d34b9c9cd648ea973c0b8f
+  type: page
+  span:
+    start_char: 326462
+    end_char: 327528
+  part_of: bases/v0075
+  part_index: 316
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820319.tif/full/max/0/default.png
+- id: a58b8e87c328490cace44aa89e8c339c
+  type: page
+  span:
+    start_char: 327533
+    end_char: 328594
+  part_of: bases/v0075
+  part_index: 317
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820320.tif/full/max/0/default.png
+- id: 63d7fc388a324997a923e2d158719816
+  type: page
+  span:
+    start_char: 328599
+    end_char: 329717
+  part_of: bases/v0075
+  part_index: 318
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820321.tif/full/max/0/default.png
+- id: 5e1eb852c7a343d69192f17463f36713
+  type: page
+  span:
+    start_char: 329722
+    end_char: 330829
+  part_of: bases/v0075
+  part_index: 319
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820322.tif/full/max/0/default.png
+- id: 929456873c3d41c8adceddfc9b5fafcc
+  type: page
+  span:
+    start_char: 330834
+    end_char: 331992
+  part_of: bases/v0075
+  part_index: 320
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820323.tif/full/max/0/default.png
+- id: 903f6bba846b41b6a393071c01d23553
+  type: page
+  span:
+    start_char: 331997
+    end_char: 333113
+  part_of: bases/v0075
+  part_index: 321
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820324.tif/full/max/0/default.png
+- id: 12376ec30ea3445e9eae6e1c693205db
+  type: page
+  span:
+    start_char: 333118
+    end_char: 334208
+  part_of: bases/v0075
+  part_index: 322
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820325.tif/full/max/0/default.png
+- id: 3a92e2149afb4fd29410a3797b1096ec
+  type: page
+  span:
+    start_char: 334213
+    end_char: 335257
+  part_of: bases/v0075
+  part_index: 323
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820326.tif/full/max/0/default.png
+- id: ba79f7688da745aab6d4fe942447dd26
+  type: page
+  span:
+    start_char: 335262
+    end_char: 336387
+  part_of: bases/v0075
+  part_index: 324
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820327.tif/full/max/0/default.png
+- id: 5981319704d4431f82c32c70b0509f39
+  type: page
+  span:
+    start_char: 336392
+    end_char: 337502
+  part_of: bases/v0075
+  part_index: 325
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820328.tif/full/max/0/default.png
+- id: b994aeec438448d29dc27cf911f25bb6
+  type: page
+  span:
+    start_char: 337507
+    end_char: 338627
+  part_of: bases/v0075
+  part_index: 326
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820329.tif/full/max/0/default.png
+- id: 683ca738924847da957d60df97abbcaf
+  type: page
+  span:
+    start_char: 338632
+    end_char: 339782
+  part_of: bases/v0075
+  part_index: 327
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820330.tif/full/max/0/default.png
+- id: 62071073088c46e68cf1e676f5763a1a
+  type: page
+  span:
+    start_char: 339787
+    end_char: 340931
+  part_of: bases/v0075
+  part_index: 328
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820331.tif/full/max/0/default.png
+- id: e22060232bd445f49cb2972f31ba018e
+  type: page
+  span:
+    start_char: 340936
+    end_char: 342081
+  part_of: bases/v0075
+  part_index: 329
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820332.tif/full/max/0/default.png
+- id: 2cb0048458e04ba3b13c0e35228a7971
+  type: page
+  span:
+    start_char: 342086
+    end_char: 343157
+  part_of: bases/v0075
+  part_index: 330
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820333.tif/full/max/0/default.png
+- id: bc8418d711d14af1badd27773c8f8ea1
+  type: page
+  span:
+    start_char: 343162
+    end_char: 344172
+  part_of: bases/v0075
+  part_index: 331
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820334.tif/full/max/0/default.png
+- id: f37e92c13a294bc6aaf89f0bf5b5ecfd
+  type: page
+  span:
+    start_char: 344177
+    end_char: 345195
+  part_of: bases/v0075
+  part_index: 332
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820335.tif/full/max/0/default.png
+- id: e459aa3ce2f440f9806e3dd636e7a501
+  type: page
+  span:
+    start_char: 345200
+    end_char: 346283
+  part_of: bases/v0075
+  part_index: 333
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820336.tif/full/max/0/default.png
+- id: 62856535dd8a4e458e2dfc0dd15c0e0b
+  type: page
+  span:
+    start_char: 346288
+    end_char: 347441
+  part_of: bases/v0075
+  part_index: 334
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820337.tif/full/max/0/default.png
+- id: d7dda993bb934568b24836138cc598c9
+  type: page
+  span:
+    start_char: 347446
+    end_char: 348539
+  part_of: bases/v0075
+  part_index: 335
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820338.tif/full/max/0/default.png
+- id: 692d36d9b619474188954d72d0fe1e1e
+  type: page
+  span:
+    start_char: 348544
+    end_char: 349655
+  part_of: bases/v0075
+  part_index: 336
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820339.tif/full/max/0/default.png
+- id: 656432f3b460416385c6433f760f458a
+  type: page
+  span:
+    start_char: 349660
+    end_char: 350803
+  part_of: bases/v0075
+  part_index: 337
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820340.tif/full/max/0/default.png
+- id: cb946f50f9574e4d9e574e900a34b176
+  type: page
+  span:
+    start_char: 350808
+    end_char: 351910
+  part_of: bases/v0075
+  part_index: 338
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820341.tif/full/max/0/default.png
+- id: 3ec4468359004ac18dd438355caf94d5
+  type: page
+  span:
+    start_char: 351915
+    end_char: 353018
+  part_of: bases/v0075
+  part_index: 339
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820342.tif/full/max/0/default.png
+- id: 80f312e9e2f049f18f58bdf8dbfa0b9a
+  type: page
+  span:
+    start_char: 353023
+    end_char: 354111
+  part_of: bases/v0075
+  part_index: 340
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820343.tif/full/max/0/default.png
+- id: 19173d00caaa439d8969adbaec406d6c
+  type: page
+  span:
+    start_char: 354116
+    end_char: 355298
+  part_of: bases/v0075
+  part_index: 341
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820344.tif/full/max/0/default.png
+- id: a4da8b6965fd4f1f9c4710b1d6a0c042
+  type: page
+  span:
+    start_char: 355303
+    end_char: 356402
+  part_of: bases/v0075
+  part_index: 342
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820345.tif/full/max/0/default.png
+- id: 8e9a91097c884efe81fa404702240636
+  type: page
+  span:
+    start_char: 356407
+    end_char: 357524
+  part_of: bases/v0075
+  part_index: 343
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820346.tif/full/max/0/default.png
+- id: 4117bad81c664237836ed0a10cc354ce
+  type: page
+  span:
+    start_char: 357529
+    end_char: 358658
+  part_of: bases/v0075
+  part_index: 344
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820347.tif/full/max/0/default.png
+- id: d267819bb07d4f65b19672ac9f9a2399
+  type: page
+  span:
+    start_char: 358663
+    end_char: 359762
+  part_of: bases/v0075
+  part_index: 345
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820348.tif/full/max/0/default.png
+- id: af85b7e5d21c496a8196474f91710507
+  type: page
+  span:
+    start_char: 359767
+    end_char: 360907
+  part_of: bases/v0075
+  part_index: 346
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820349.tif/full/max/0/default.png
+- id: 5b63408e93b44c09a03c2e2c96265e51
+  type: page
+  span:
+    start_char: 360912
+    end_char: 362040
+  part_of: bases/v0075
+  part_index: 347
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820350.tif/full/max/0/default.png
+- id: 6ea13bc3cdd2411499b76809109c7127
+  type: page
+  span:
+    start_char: 362045
+    end_char: 363231
+  part_of: bases/v0075
+  part_index: 348
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820351.tif/full/max/0/default.png
+- id: af3b52fc3ed24ea7998563eee265bba2
+  type: page
+  span:
+    start_char: 363236
+    end_char: 364428
+  part_of: bases/v0075
+  part_index: 349
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820352.tif/full/max/0/default.png
+- id: a6dedf97b08444c989ed1f51af4e6e69
+  type: page
+  span:
+    start_char: 364433
+    end_char: 365525
+  part_of: bases/v0075
+  part_index: 350
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820353.tif/full/max/0/default.png
+- id: 3fd465b38bd942d3b5fc3f4cc5c331e1
+  type: page
+  span:
+    start_char: 365530
+    end_char: 366613
+  part_of: bases/v0075
+  part_index: 351
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820354.tif/full/max/0/default.png
+- id: cc977557b4b9412a9c02411ac3cd2769
+  type: page
+  span:
+    start_char: 366618
+    end_char: 367655
+  part_of: bases/v0075
+  part_index: 352
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820355.tif/full/max/0/default.png
+- id: 01a32519b1ca42179b742a740605f582
+  type: page
+  span:
+    start_char: 367660
+    end_char: 368723
+  part_of: bases/v0075
+  part_index: 353
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820356.tif/full/max/0/default.png
+- id: aa7f5b8e1c1444cc92b55493cb2e2eeb
+  type: page
+  span:
+    start_char: 368728
+    end_char: 369796
+  part_of: bases/v0075
+  part_index: 354
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820357.tif/full/max/0/default.png
+- id: b7da81290a4d4a8191256659b9319a62
+  type: page
+  span:
+    start_char: 369801
+    end_char: 370887
+  part_of: bases/v0075
+  part_index: 355
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820358.tif/full/max/0/default.png
+- id: 55dada24100e4da2b1555bfaa60d25e3
+  type: page
+  span:
+    start_char: 370892
+    end_char: 371870
+  part_of: bases/v0075
+  part_index: 356
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820359.tif/full/max/0/default.png
+- id: 0c86a26b6d0f4df3a7a77d54f3c4f6a9
+  type: page
+  span:
+    start_char: 371875
+    end_char: 372961
+  part_of: bases/v0075
+  part_index: 357
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820360.tif/full/max/0/default.png
+- id: a63a021dabd44b6cbfbb6e41b5d586aa
+  type: page
+  span:
+    start_char: 372966
+    end_char: 374056
+  part_of: bases/v0075
+  part_index: 358
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820361.tif/full/max/0/default.png
+- id: 9b2f018d5c8b44ac8e3134612ae419a2
+  type: page
+  span:
+    start_char: 374061
+    end_char: 375148
+  part_of: bases/v0075
+  part_index: 359
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820362.tif/full/max/0/default.png
+- id: 0f4aa1eef327440589b68bd010019632
+  type: page
+  span:
+    start_char: 375153
+    end_char: 376228
+  part_of: bases/v0075
+  part_index: 360
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820363.tif/full/max/0/default.png
+- id: 5ed9ad89107d41c39229b1d49209b86c
+  type: page
+  span:
+    start_char: 376233
+    end_char: 377386
+  part_of: bases/v0075
+  part_index: 361
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820364.tif/full/max/0/default.png
+- id: 28155f8eeea94b9f8a52545f1eddf4fd
+  type: page
+  span:
+    start_char: 377391
+    end_char: 378528
+  part_of: bases/v0075
+  part_index: 362
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820365.tif/full/max/0/default.png
+- id: 70cbe5b664814c3d9a26903f4d814b13
+  type: page
+  span:
+    start_char: 378533
+    end_char: 379727
+  part_of: bases/v0075
+  part_index: 363
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820366.tif/full/max/0/default.png
+- id: ff09f7721ce645e2a7f36602490190af
+  type: page
+  span:
+    start_char: 379732
+    end_char: 380879
+  part_of: bases/v0075
+  part_index: 364
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820367.tif/full/max/0/default.png
+- id: 4c5d0e8cec12446686f182d934a9a398
+  type: page
+  span:
+    start_char: 380884
+    end_char: 381943
+  part_of: bases/v0075
+  part_index: 365
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820368.tif/full/max/0/default.png
+- id: 4fd72a40938543f3a4fc72e24953aad6
+  type: page
+  span:
+    start_char: 381948
+    end_char: 383087
+  part_of: bases/v0075
+  part_index: 366
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820369.tif/full/max/0/default.png
+- id: 0a3b611ec6b347009ae21ca4e3615dbe
+  type: page
+  span:
+    start_char: 383092
+    end_char: 384243
+  part_of: bases/v0075
+  part_index: 367
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820370.tif/full/max/0/default.png
+- id: fc84653244e24ca58d042f6a79307ec5
+  type: page
+  span:
+    start_char: 384248
+    end_char: 385352
+  part_of: bases/v0075
+  part_index: 368
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820371.tif/full/max/0/default.png
+- id: ae53104fc4f449e191c7bd8625726fc6
+  type: page
+  span:
+    start_char: 385357
+    end_char: 386558
+  part_of: bases/v0075
+  part_index: 369
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820372.tif/full/max/0/default.png
+- id: b1202bccfdcd463884dde00c189d693e
+  type: page
+  span:
+    start_char: 386563
+    end_char: 387706
+  part_of: bases/v0075
+  part_index: 370
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820373.tif/full/max/0/default.png
+- id: 84b2afcea0f54ffe9df110ba2763d412
+  type: page
+  span:
+    start_char: 387711
+    end_char: 388905
+  part_of: bases/v0075
+  part_index: 371
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820374.tif/full/max/0/default.png
+- id: ca8edfb378084003aec72a1a9dcb2376
+  type: page
+  span:
+    start_char: 388910
+    end_char: 390070
+  part_of: bases/v0075
+  part_index: 372
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820375.tif/full/max/0/default.png
+- id: f6f3152643e645d999f4ebf9e4081cf5
+  type: page
+  span:
+    start_char: 390075
+    end_char: 391263
+  part_of: bases/v0075
+  part_index: 373
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820376.tif/full/max/0/default.png
+- id: 6a70128e1533492c8c27ab9d93aa76a1
+  type: page
+  span:
+    start_char: 391268
+    end_char: 392433
+  part_of: bases/v0075
+  part_index: 374
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820377.tif/full/max/0/default.png
+- id: d4d80822b99c481a9bbf4cfdef9b897b
+  type: page
+  span:
+    start_char: 392438
+    end_char: 393585
+  part_of: bases/v0075
+  part_index: 375
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820378.tif/full/max/0/default.png
+- id: 765aeec0efeb4e748829253fbe428337
+  type: page
+  span:
+    start_char: 393590
+    end_char: 394650
+  part_of: bases/v0075
+  part_index: 376
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820379.tif/full/max/0/default.png
+- id: ad38e56f6ec7447988d4867a19c384af
+  type: page
+  span:
+    start_char: 394655
+    end_char: 395696
+  part_of: bases/v0075
+  part_index: 377
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820380.tif/full/max/0/default.png
+- id: 7fda3951588341e3aa733de6f91d2958
+  type: page
+  span:
+    start_char: 395701
+    end_char: 396830
+  part_of: bases/v0075
+  part_index: 378
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820381.tif/full/max/0/default.png
+- id: 8ad11f3260914a5ebd51598e7b7bb4d9
+  type: page
+  span:
+    start_char: 396835
+    end_char: 397990
+  part_of: bases/v0075
+  part_index: 379
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820382.tif/full/max/0/default.png
+- id: 24121da53f78475e821ec9ff0aea0d14
+  type: page
+  span:
+    start_char: 397995
+    end_char: 399055
+  part_of: bases/v0075
+  part_index: 380
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820383.tif/full/max/0/default.png
+- id: 5378c2427ded4a75ab7ca6ee0fe26ec2
+  type: page
+  span:
+    start_char: 399060
+    end_char: 400108
+  part_of: bases/v0075
+  part_index: 381
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820384.tif/full/max/0/default.png
+- id: 7e8442e127dd4273ad4258bd9feaf453
+  type: page
+  span:
+    start_char: 400113
+    end_char: 401128
+  part_of: bases/v0075
+  part_index: 382
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820385.tif/full/max/0/default.png
+- id: e16594f686664cdfbe7b23b71d51e731
+  type: page
+  span:
+    start_char: 401133
+    end_char: 402172
+  part_of: bases/v0075
+  part_index: 383
+  pg_img_ref: https://iiif.bdrc.io/bdr:V22083_I3782::37820386.tif/full/max/0/default.png
