@@ -47,7 +47,7 @@ def convert_vol(vol):
 
 
 def write_annotation(ref, vol, pages, vol_text):
-    pecha_id = "P000542"
+    pecha_id = "P005538"
     vol = convert_vol(vol)
     start = pages["start"]
     if pages["end"] == None:
@@ -57,8 +57,9 @@ def write_annotation(ref, vol, pages, vol_text):
     end_count = 0
 
     hfml_path = f"./hfml/{pecha_id}/{vol}.txt"
-    start_pattern = f"〔\d+〕\s.+\.jpg\s{start}"
-    end_pattern = f"〔\d+〕\s.+\.jpg\s{end}"
+    start_pattern = f"〔\d+〕\s.+\.(jpg|tif)\s{start}"
+    end_pattern = f"〔\d+〕\s.+\.(jpg|tif)\s{end}"
+    annot_pattern = f"〔\d+〕\s.+\.(jpg|tif)\s\d+[a-b]"
 
     with open(hfml_path, "r") as f:
         lines = f.readlines()
@@ -79,6 +80,8 @@ def write_annotation(ref, vol, pages, vol_text):
                     line = line.strip(
                         '\n')+f"\u007b/{ref} vol:{vol_text}\u007d\n"
                 end_count += 1
+            if re.match(annot_pattern,line):
+                line = re.sub("\d+[a-b]$", "", line)
 
             f.write(line)
 
@@ -117,6 +120,6 @@ def extract_pages(page):
 
 
 if __name__ == "__main__":
-    xml_path = "./rkts_xml/J.xml"
+    xml_path = "./rkts_xml/U.xml"
     content = Path(xml_path).read_text(encoding="utf-8")
     parse_xml(content)

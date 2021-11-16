@@ -1,0 +1,30 @@
+id: 64a6c37769a247b2b97afbe4cc1ab450
+annotation_type: ErrorCandidate
+revision: '00001'
+annotations:
+  3927053a7fca4755b40c50fc2d4bc1dd:
+    span:
+      start: 396
+      end: 400
+  1aa91c9b6bde42038f14ab7cde43fbe0:
+    span:
+      start: 412
+      end: 416
+  fef91a89559546d8aa05d86f5e296f5c:
+    span:
+      start: 941
+      end: 961
+  38dbec13063942d7b7daed812c0765fc:
+    span:
+      start: 79436
+      end: 79436
+  bc68b495e808460b8a3ed366191af49d:
+    span:
+      start: 932680
+      end: 932816
+local_ids:
+  3927053a7fca4755b40c50fc2d4bc1dd: 200000
+  1aa91c9b6bde42038f14ab7cde43fbe0: 200001
+  fef91a89559546d8aa05d86f5e296f5c: 200002
+  38dbec13063942d7b7daed812c0765fc: 200003
+  bc68b495e808460b8a3ed366191af49d: 200004

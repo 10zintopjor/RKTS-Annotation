@@ -1,0 +1,20 @@
+id: 49a585c168764eefabf1d5a1f4a0f648
+annotation_type: ErrorCandidate
+revision: '00001'
+annotations:
+  a52cf234bf104dacb9d37ada0b42dd28:
+    span:
+      start: 394
+      end: 398
+  edcba887724e44d5beeaab52385fdff2:
+    span:
+      start: 938
+      end: 958
+  edc66393c2f74c7db53b71c2eee7239c:
+    span:
+      start: 152788
+      end: 152937
+local_ids:
+  a52cf234bf104dacb9d37ada0b42dd28: 200000
+  edcba887724e44d5beeaab52385fdff2: 200001
+  edc66393c2f74c7db53b71c2eee7239c: 200002

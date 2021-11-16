@@ -1,0 +1,40 @@
+id: 227e13e62a3c43f0a3dc32149c4235dd
+annotation_type: ErrorCandidate
+revision: '00001'
+annotations:
+  39fa6ae93d8247e69a577751f44f1114:
+    span:
+      start: 405
+      end: 409
+  2f407ef7f52d4b9d9d8717407f87faf7:
+    span:
+      start: 411
+      end: 415
+  e3be52a7880247708f94edcdd9fb750b:
+    span:
+      start: 937
+      end: 957
+  64540d422a244090876f167b6e9c9b3d:
+    span:
+      start: 163971
+      end: 164015
+  fcfe012fe5914f219943077a5ca6ab37:
+    span:
+      start: 227922
+      end: 227960
+  1136b1a9f2e842ed86f4cd2c7c799cc3:
+    span:
+      start: 241607
+      end: 241702
+  e3d09f262d84401985e0b5a8b9c929dd:
+    span:
+      start: 622676
+      end: 622824
+local_ids:
+  39fa6ae93d8247e69a577751f44f1114: 200000
+  2f407ef7f52d4b9d9d8717407f87faf7: 200001
+  e3be52a7880247708f94edcdd9fb750b: 200002
+  64540d422a244090876f167b6e9c9b3d: 200003
+  fcfe012fe5914f219943077a5ca6ab37: 200004
+  1136b1a9f2e842ed86f4cd2c7c799cc3: 200005
+  e3d09f262d84401985e0b5a8b9c929dd: 200006

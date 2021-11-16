@@ -19,7 +19,7 @@ if __name__ == "__main__":
     # pecha_id = "1dbba105efc046849872f08cfebfb168"
     # pecha_id = "187ed94f85154ea5b1ac374a651e1770"
     # pecha_id = "T65"
-    pecha_id = "P000542"
+    pecha_id = "P000006"
     # opfs_path = "./tenjur"
     # hfml_text = f"./hfmls/{pecha_id}/"
     # hfml_text = './P000001'
